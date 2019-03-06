@@ -1,0 +1,499 @@
+id	region	gender	agemons	weight	height	measure	oedema	head	muac	tri	sub	sw	reflib	datalib	datalab	ageunit	_agedays	_clenhei	_cbmi	_zwei	_zlen	_zbmi	_zwfl	_fwfl	_flen	_fwei	_fbmi
+1	"West"	2	22.45	10.4	84.8	"l"	"n"		14.9	6.8	5.2	5598.031	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	683	84.8	14.462441	-.57	-.07	-.79	-.81	0	0	0	0
+2	"West"	2	21.47	11.7	83.5	"l"	"n"		15.4	8.2	8.4	28113.58	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	653	83.5	16.780809	.53	-.19	.9	.83	0	0	0	0
+3	"West"	2	7.7	7.2	67	"l"	"n"		14.4	12.2	7.8	2865.472	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	234	67	16.039207	-.72	-.55	-.56	-.49	0	0	0	0
+4	"East"	1	60.83	21.3	118	"h"	"n"		17	6.6	4.5	53687.99	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1852	118	15.297328	1.04	1.62	.08	-.13	0	0	0	0
+5	"West"	2	17.01	11	80.6	"l"	"n"		15.1	7.5	7.8	5988.65	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	518	80.6	16.93256	.74	.32	.78	.82	0	0	0	0
+6	"North"	1	57.08	21.8	110.2	"h"	"n"		19.2	13	6.9	16455.43	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1737	110.2	17.951193	1.48	.41	1.83	1.76	0	0	0	0
+7	"East"	1	28.52	12.9	85.9	"l"	"n"		14.5	8.2	7	6660.146	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	868	85.2	17.770942	-.08	-1.69	1.43	1.16	0	0	0	0
+8	"North"	2	16.31	8.6	75.1	"l"	"n"		15	7.5	5.8	6629.963	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	496	75.1	15.248201	-1.14	-1.36	-.47	-.72	0	0	0	0
+9	"North"	2	53.09	16.1	106	"h"	"n"		15.2	7.2	5.8	53306.69	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1616	106	14.328943	-.38	.07	-.67	-.67	0	0	0	0
+10	"North"	1	18.58	8.8	75.9	"l"	"n"		13.2	9.2	5.2	8594.225	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	566	75.9	15.275629	-2.05	-2.54	-.67	-1.17	0	0	0	0
+11	"East"	1	21.66	14.4	92.3	"l"	"n"		16.6	9.4	6.6	19959.87	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	659	92.3	16.902815	1.85	2.25	.8	1.01	0	0	0	0
+12	"North"	2	3.17	6.5	59.3	"l"	"n"	39	14.7	17.4	12.2	2345.059	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	96	59.3	18.484341	.71	-.42	1.29	1.41	0	0	0	0
+13	"East"	1	9.66	10.2	70.3	"l"	"n"		16.6	13	10.6	6556.549	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	294	70.3	20.639039	1.08	-1.12	2.26	2.16	0	0	0	0
+14	"West"	1	35.12	14.4	97.1	"h"	"n"		16.3	9	6.8	10301.02	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1069	97.1	15.272989	.12	.44	-.29	-.15	0	0	0	0
+15	"North"	2	10.3	8.4	70.2	"l"	"n"		14.2	12.6	9.2	1928.069	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	314	70.2	17.045317	-.15	-.68	.31	.26	0	0	0	0
+16	"West"	1	19.33	12.5	85.5	"l"	"n"		15.3	8.2	7.2	7663.239	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	588	85.5	17.099278	.98	.7	.81	.88	0	0	0	0
+17	"East"	1	20.89	12.8	85.6	"l"	"n"		16.5	11.3	8.4	5799.233	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	636	85.6	17.468775	.93	.2	1.16	1.14	0	0	0	0
+18	"North"	2	4.42	6.2	58.8	"l"	"n"	41.3	15.1	8	5.4	7776.616	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	135	58.8	17.932343	-.56	-1.91	.74	1.16	0	0	0	0
+19	"North"	2	29.32	13.8	93	"h"	"n"		16.1	8.2	6.8	15497.55	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	892	93	15.955602	.73	.82	.31	.34	0	0	0	0
+20	"North"	1	40.57	14.4	95.7	"h"	"n"		16.7	7.9	5.8	9681.308	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1235	95.7	15.723117	-.39	-.84	.2	.15	0	0	0	0
+21	"West"	2	4.9	6	61.6	"l"	"n"	40.8	12.4	11.2	9	2296.597	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	149	61.6	15.812111	-1.08	-1.01	-.68	-.5	0	0	0	0
+22	"East"	2	19.14	13.4	81.6	"l"	"n"		18.3	13.5	12.6	40788.89	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	583	81.6	20.124472	1.94	-.09	2.74	2.68	0	0	0	0
+23	"South"	1	57.8	18.1	110.8	"h"	"n"		17.7	5.8	4.4	8556.059	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1759	110.8	14.743447	.05	.45	-.37	-.43	0	0	0	0
+24	"West"	2	7.9	7	67.8	"l"	"n"	43.3	12.6	13.6	6.2	7459.705	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	240	67.8	15.227851	-1.02	-.33	-1.14	-1.07	0	0	0	0
+25	"East"	1	59.3	20.1	107.1	"l"	"n"		18	9.4	5.2	10617.43	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1805	106.4	17.754678	.72	-.69	1.7	1.71	0	0	0	0
+26	"East"	2	16.61	9.5	75.9	"l"	"n"		14.1	10.5	7.4	6883.502	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	506	75.9	16.490736	-.37	-1.19	.46	.22	0	0	0	0
+27	"East"	1	20.54	9.5	78.9	"l"	"n"		13.7	7.8	6.4	8625.513	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	625	78.9	15.260529	-1.66	-2.04	-.56	-.92	0	0	0	0
+28	"West"	2	31.61	13.3	93.6	"h"	"n"		15.6	8.4	5	7187.358	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	962	93.6	15.180985	.17	.47	-.24	-.2	0	0	0	0
+29	"North"	1	56.51	23.2	117.6	"h"	"n"		19.3	9.8	5.8	52631.91	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1720	117.6	16.775419	1.97	2.12	1.1	.86	0	0	0	0
+30	"South"	2	25.82	15.5	91.1	"h"	"n"		18.2	13	8.4	6627.941	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	786	91.1	18.676477	2.07	1.15	2	1.97	0	0	0	0
+31	"South"	1	20.42	11.4	83.5	"l"	"n"		16.1	12.3	5	34138.32	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	622	83.5	16.350532	-.03	-.39	.32	.27	0	0	0	0
+32	"North"	1	28.31	15.5	92.4	"h"	"n"					33466.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	862	92.4	18.154644	1.51	.53	1.68	1.73	0	0	0	0
+33	"West"	1	13.91	9.2	75.4	"l"	"n"		13.9	11.5	4.6	34075.94	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	423	75.4	16.182481	-.82	-1.03	-.3	-.5	0	0	0	0
+34	"South"	1	35.13	17.3	96.2	"h"	"n"		18.3	10.5	9.1	5605.133	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1069	96.2	18.69373	1.63	.19	2.2	2.23	0	0	0	0
+35	"East"	2	16.47	10.6	74.9	"l"	"n"		17.3	15.5		17304.24	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	501	74.9	18.894797	.54	-1.49	1.94	1.61	0	0	0	0
+36	"North"	2	34.72	18.3	99	"h"	"n"		19.4	14	7.2	46783.36	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1057	99	18.671563	2.2	1.29	2.13	2.15	0	0	0	0
+37	"South"	2	21.49	9.9	80.8	"l"	"n"		14.6	11.2	7	5338.727	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	654	80.8	15.163953	-.83	-1.07	-.26	-.4	0	0	0	0
+38	"East"	1	22.03	11	81	"l"	"n"		15.4	9.5	7.7	5859.832	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	671	81	16.765737	-.59	-1.73	.72	.4	0	0	0	0
+39	"East"	1	16.93	10.8	80.9	"l"	"n"		15.6	9.3	7	35789.72	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	515	80.9	16.501625	.07	-.1	.2	.21	0	0	0	0
+40	"West"	1	4.69	7.7	63.5	"l"	"n"	40.4	15	11.2	9.8	2156.7	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	143	63.5	19.096038	.4	-.87	1.21	1.3	0	0	0	0
+41	"South"	1	7.2	8.9	67.6	"l"	"n"		14.6	13.5	8.6	3603.267	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	219	67.6	19.475859	.57	-.85	1.41	1.46	0	0	0	0
+42	"North"	1	11.82	8.6	74	"l"	"n"		14	9	5.8	2879.857	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	360	74	15.704895	-1.01	-.65	-.87	-.95	0	0	0	0
+43	"East"	2	49.08	19.6	108.3	"h"	"n"		17.1	7.2	5.2	8983.705	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1494	108.3	16.710873	1.29	1.13	.96	.92	0	0	0	0
+44	"North"	2	60.2	19	109	"h"	"n"		16.5	8.6	8.2	22907.07	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1832	109	15.99192	.27	-.11	.46	.44	0	0	0	0
+45	"West"	2	41.9	14.7	99.7	"h"	"n"		15.9	9	6	14927.96	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1275	99.7	14.788599	-.13	.18	-.4	-.33	0	0	0	0
+46	"North"	2	42.76	14.4	99.5	"l"	"n"		16.5	10	8.2	9366.79	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1302	98.8	14.751921	-.36	-.18	-.42	-.37	0	0	0	0
+47	"North"	2	16.81	10.2	76.7	"l"	"n"		14.7	6.6	6.6	29057.72	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	512	76.7	17.338418	.17	-.98	1.03	.82	0	0	0	0
+48	"West"	1	35.07	17	93	"h"	"n"		19	11	5.6	18286.63	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1067	93	19.655451	1.49	-.67	2.79	2.68	0	0	0	0
+49	"South"	1	49.57	19.6	106.6	"h"	"n"		18.9	10.2	7.2	10462.81	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1509	106.6	17.248117	1.27	.56	1.41	1.38	0	0	0	0
+50	"South"	2	4.55	5.9	62.3	"l"	"n"	41.8	12.6	7.4	8.2	2866.247	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	138	62.3	15.201132	-1.02	-.39	-1.08	-.99	0	0	0	0
+51	"North"	1	24.59	12.5		""	"n"		14.3	6.4	5.2	20287.25	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	748			.16						0	
+52	"South"	1	22.42	15.5	89.4	"l"	"n"		17.4	14.4	11.4	8319.421	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	682	89.4	19.39352	2.38	1.01	2.46	2.5	0	0	0	0
+53	"East"	2	42.83	11.1	90.4	"h"	"n"		14	6.4	4.4	8150.423	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1304	90.4	13.5827	-2.42	-2.24	-1.39	-1.59	0	0	0	0
+54	"East"	2	0	4.2	51.9	"l"	"n"	36.8				3378.825	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	51.9	15.592456	1.94	1.48	1.68	1.17	0	0	0	0
+55	"East"	2	9.28	8.2	73.5	"l"	"n"		12.7	8	7	18473.06	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	282	73.5	15.17886	-.09	1.23	-1.1	-.88	0	0	0	0
+56	"North"	2	1	4.3	55.3	"l"	"n"	37.8				1852.354	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	30	55.3	14.061065	.22	.85	-.35	-.82	0	0	0	0
+57	"North"	1	29.67	15.2	92.6	"l"	"n"		17.6	10	7.9	5975.673	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	903	91.9	17.997515	1.17	.06	1.61	1.6	0	0	0	0
+58	"East"	1	5.6	7.5	66.1	"l"	"n"	42.8	14.1	11.5	9.3	16089.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	170	66.1	17.165575	-.32	-.39	-.12	-.04	0	0	0	0
+59	"North"	2	48.48	15.2	98.3	"h"	"n"		14.9	8.2	5.8	18214.66	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1476	98.3	15.730282	-.44	-1.09	.33	.33	0	0	0	0
+60	"West"	1	8.84	6.3	64.8	"l"	"n"		13.9	9.2	3.8	15601.55	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	269	64.8	15.003428	-3.08	-3.11	-1.71	-1.7	0	0	0	0
+61	"West"	2	14.41	8.9	74.4	"l"	"n"		14.5	12.2	9.4	6322.698	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	439	74.4	16.078447	-.52	-.91	.01	-.17	0	0	0	0
+62	"South"	2	41.97	14	98.7	"h"	"n"		15.8	6.8	4.8	11325.37	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1277	98.7	14.371224	-.5	-.08	-.73	-.67	0	0	0	0
+63	"South"	1	19.8	12.2	86.8	"l"	"n"		15.8	8	7.2	5804.858	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	603	86.8	16.19274	.68	.99	.16	.26	0	0	0	0
+64	"West"	1	11.4	10.5	79.5	"l"	"n"		15.3	7.4	6.4	4485.9	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	347	79.5	16.613267	.91	1.9	-.19	.17	0	0	0	0
+65	"West"	2	9.31	9.4	71.7	"l"	"n"		15.4	12.3	9.2	16643.19	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	283	71.7	18.284773	1.01	.47	1	1.08	0	0	0	0
+66	"North"	2	25.26	13.6		""	"n"		16.6	11.5	6	7692.761	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	769			1.16						0	
+67	"North"	2	26.02	10	83.2	"l"	"n"		15.1	7.2	6.4	6379.914	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	792	82.5	14.692378	-1.43	-1.49	-.75	-.86	0	0	0	0
+68	"West"	2	7.91	8.9	69.6	"l"	"n"	44.3	15.2	12	8	13852.25	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	241	69.6	18.372638	.95	.41	.96	1.05	0	0	0	0
+69	"East"	1	8.63	8.8	68.7	"l"	"n"		14.5	10.7	6.4	17628.43	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	263	68.7	18.645294	0	-1.25	.98	.95	0	0	0	0
+70	"North"	2	11.5	8.8	78	"l"	"n"		14.5	11.8	8.1	5396.07	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	350	78	14.464169	-.03	1.81	-1.47	-1.11	0	0	0	0
+71	"East"	1	24.06	12.7		""	"n"		17	13.8	6.8	5851.37	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	732			.38						0	
+72	"South"	1	19.46	11.1	84.1	"l"	"n"		15.3	7.2	6.4	9810.5	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	592	84.1	15.693905	-.11	.15	-.26	-.21	0	0	0	0
+73	"West"	2	56.39	27.5	110.4	"l"	"n"		22.6	24.8	18.2	7719.235	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1716	109.7	22.851747	2.85	.48	3.87	4.05	0	0	0	0
+74	"North"	2	16.34	9.9	75.5	"l"	"n"		16.4	10.2	7.4	5624.08	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	497	75.5	17.367659	.02	-1.23	1.02	.75	0	0	0	0
+75	"West"	1	47.18	15.2	100.5	"l"	"n"		16.4	8	5.1	10091.49	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1436	99.8	15.260982	-.51	-.74	-.07	-.08	0	0	0	0
+76	"West"	2	52.2	16.9	102.7	"l"	"n"		17	10.6	5.4	59556.55	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1589	102	16.243752	.03	-.71	.66	.72	0	0	0	0
+77	"East"	2	43.85	12.6	91.9	"h"	"n"		15.4	10.4	6.6	22173.39	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1335	91.9	14.918993	-1.49	-2.01	-.28	-.45	0	0	0	0
+78	"West"	1	12.04	9.5	75.9	"l"	"n"		15.1	7.4	5.8	2849.494	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	366	75.9	16.490736	-.15	.05	-.23	-.23	0	0	0	0
+79	"East"	2	50.48	16.8	105.3	"h"	"n"		17	16	7.2	24314.59	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1536	105.3	15.151391	.12	.26	-.07	-.05	0	0	0	0
+80	"West"	2	14.88	11	77.3	"l"	"n"		15.2	7.6	5.9	7170.032	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	453	77.3	18.409147	1.11	-.03	1.55	1.51	0	0	0	0
+81	"South"	1	52.55	15.5	99.1	"h"	"n"		15.1	9.2	5.2	8831.479	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1599	99.1	15.782813	-.76	-1.55	.39	.31	0	0	0	0
+82	"South"	2	26.56	14	89.9	"h"	"n"		16.8	12.4	6.4	6432.191	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	808	89.9	17.322423	1.2	.59	1.19	1.14	0	0	0	0
+83	"West"	2	51.25	16.1	102.6	"h"	"n"		17.2	13	5.2	20767.29	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1560	102.6	15.294355	-.24	-.46	.03	.07	0	0	0	0
+84	"North"	1	31.16	13.4	92.2	"h"	"n"					11994.51	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	948	92.2	15.763149	-.07	-.16	.01	0	0	0	0	0
+85	"West"	2	28.06	14.1		""	"n"					4857.599	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	854			1.06						0	
+86	"East"	1	2.09	4.1	56	"l"	"n"	39.6	10.8	7.8	5	9783.874	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	64	56	13.073979	-2.54	-1.38	-2.59	-1.99	0	0	0	0
+87	"South"	2	1.19	4.4	54.1	"l"	"n"	37.7				2842.796	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	36	54.1	15.033433	.03	-.13	.12	.22	0	0	0	0
+88	"West"	2	42.02	13.8	94.6	"h"	"n"		15.8	9.5	5.3	20472.08	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1279	94.6	15.420442	-.62	-1.1	.08	.01	0	0	0	0
+89	"South"	2	14.46	9.7	75.7	"l"	"n"		15	12	8.4	13626.47	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	440	75.7	16.927	.18	-.44	.59	.49	0	0	0	0
+90	"South"	2	14.74	9.4	70.6	"l"	"n"		15.2	8.7	7.8	5634.137	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	449	70.6	18.858991	-.13	-2.43	1.8	1.36	0	0	0	0
+91	"East"	2	1.57	4	52.1	"l"	"n"	35.4				6614.259	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	48	52.1	14.736168	-1.31	-1.81	-.44	.52	0	0	0	0
+92	"East"	1	28.23	12.9	89.3	"h"	"n"		15.8	6.8	5.2	24551.71	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	859	89.3	16.176581	-.05	-.39	.25	.17	0	0	0	0
+93	"East"	2	1.49	4.7		""	"n"	38				1852.354	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	45			.04						0	
+94	"West"	2	11.75	11.3	74.9	"l"	"n"		16.8	9.3	9.4	2719.601	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	358	74.9	20.142566	1.91	.46	2.26	2.27	0	0	0	0
+95	"West"	1	60.82	19.8	112.8	"h"	"n"		17.6	9	6	8053.055	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1851	112.8	15.561339	.51	.51	.28	.15	0	0	0	0
+96	"East"	2	10.28	9.5	72.2	"l"	"n"		15.4	9	8.8	3422.795	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	313	72.2	18.224232	.85	.14	1.05	1.07	0	0	0	0
+97	"East"	2	23.22	12.9	87.1	"l"	"n"		15.8			34648.75	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	707	87.1	17.00409	1.04	.43	1.1	1.04	0	0	0	0
+98	"West"	2	51.82	19.1	107.8	"h"	"n"		18.4	10.2	6	10400.06	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1577	107.8	16.435989	.9	.64	.78	.76	0	0	0	0
+99	"East"	1	21.81	12.7	87.8	"l"	"n"		16.2	7.4	5.8	7712.834	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	664	87.8	16.474591	.72	.66	.49	.5	0	0	0	0
+100	"West"	2	17.61	10.9	79.6	"l"	"n"		14.7	11.1	8	7097.96	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	536	79.6	17.202848	.57	-.25	.99	.94	0	0	0	0
+101	"North"	1	28.57	14	88.5	"l"	"n"		17.4	13	7.2	18612.25	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	870	87.8	18.160967	.61	-.92	1.69	1.51	0	0	0	0
+102	"East"	2	4.38	7	63.3	"l"	"n"	41.8	15	14	8.2	14843.17	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	133	63.3	17.469909	.46	.21	.46	.5	0	0	0	0
+103	"South"	2	24.15	12.3		""	"n"					18022.17	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	735			.53						0	
+104	"South"	1	1.26	5.8	60.5	"l"	"n"	39.9				7254.071	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	38	60.5	15.845913	1.51	2.43	.32	-.67	0	0	0	0
+105	"East"	1	15.53	8.7	76.2	"l"	"n"		14.2	7.6	5	8625.513	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	473	76.2	14.983364	-1.64	-1.38	-1.15	-1.39	0	0	0	0
+106	"South"	1	31.4	13.9	96.4	"h"	"n"		15.2	5.8	4.6	5875.915	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	956	96.4	14.957558	.21	.99	-.66	-.44	0	0	0	0
+107	"West"	2	11.65	9.5	76.7	"l"	"n"		14.7	8.2	6	6757.283	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	355	76.7	16.148527	.55	1.21	-.18	.04	0	0	0	0
+108	"North"	1	7.32			""	"n"					6676.592	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	223										
+109	"South"	2	23.62	15.1	97.8	"h"	"n"		16.4	8.6	7	5815.858	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	719	98.5	15.563401	2.18	3.87	.11	.36	0	0	0	0
+110	"South"	2	55.29	20.3	113	"h"	"n"		19	11.6	5.6	49801.94	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1683	113	15.897877	1.04	1.33	.43	.25	0	0	0	0
+111	"East"	2	19.9	13.8	84.6	"l"	"n"		16.7	9.4	8.2	5419.744	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	606	84.6	19.281392	2.05	.66	2.33	2.33	0	0	0	0
+112	"West"	2	2.97	4.5	60.4	"l"	"n"	39.5				4531.861	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	90	60.4	12.334985	-2.02	.34	-3.01	-3.26	0	0	0	0
+113	"East"	2	43.81	17.2	99.6	"h"	"n"		16.7	11.4	8.1	7911.94	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1333	99.6	17.338431	.85	-.14	1.36	1.39	0	0	0	0
+114	"North"	1	33.07	14.8	92.2	"h"	"n"		16	8.8	5.6	6819.833	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1007	92.2	17.410046	.56	-.54	1.29	1.22	0	0	0	0
+115	"South"	1	19.53	9.8	77.7	"l"	"n"		16.5	6.8	8.4	5517.315	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	594	77.7	16.23245	-1.23	-2.17	.17	-.28	0	0	0	0
+116	"West"	1	8.52	10.3	75.5	"l"	"n"		15	10.2	8	7173.37	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	259	75.5	18.069383	1.5	1.89	.59	.83	0	0	0	0
+117	"North"	2	32.88	12.4	89.8	"h"	"n"		15.6	9	4.6	37282.61	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1001	89.8	15.376906	-.53	-.83	-.06	-.18	0	0	0	0
+118	"South"	1	25.69	14		""	"n"		17.4	13	6.4	6218.96	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	782			.99						0	
+119	"West"	1	11.63	9	72.1	"l"	"n"		14.1	9.7	7.4	24009.28	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	354	72.1	17.312987	-.55	-1.36	.34	.15	0	0	0	0
+120	"West"	1	19.35	12.5	87.3	"l"	"n"		17	7.2	6.1	39378.07	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	589	87.3	16.401422	.97	1.34	.29	.43	0	0	0	0
+121	"West"	1	12.79	10.5	76.2	"l"	"n"		15.5	11	8.8	6317.947	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	389	76.2	18.083371	.61	-.19	.98	.89	0	0	0	0
+122	"East"	1	13.82	10.5	74.9	"l"	"n"		16.2	8.8	10.2	5999.936	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	421	74.9	18.716543	.39	-1.2	1.48	1.21	0	0	0	0
+123	"West"	1	26.77	14.8	93.7	"h"	"n"		16.5	10	8.5	37499.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	815	93.7	16.857089	1.32	1.32	.73	.9	0	0	0	0
+124	"South"	1	7.39	8.8	68.6	"l"	"n"		14	10.3	9	4683.433	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	225	68.6	18.699693	.4	-.52	.94	.99	0	0	0	0
+125	"North"	1	17.06	12	80.5	"l"	"n"		18	16	10	6082.837	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	519	80.5	18.517804	1	-.3	1.62	1.53	0	0	0	0
+126	"East"	1	3.04	6.5	61	"l"	"n"	41.9	13.7	8.6	9.8	6702.084	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	93	61	17.468422	.11	-.28	.38	.44	0	0	0	0
+127	"North"	2	31.04	11.7	85.8	"l"	"n"		15.1	8.4		5852.934	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	945	85.10001	16.155733	-.79	-1.78	.48	.27	0	0	0	0
+128	"South"	1	42.92	15.1	101.4	"h"	"n"		15.6	8.2	5	18188.99	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1306	101.4	14.685916	-.21	.25	-.61	-.52	0	0	0	0
+129	"North"	1	29.97	16.3	93.4	"h"	"n"		17.3	10.4	9.9	6443.354	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	912	93.4	18.685031	1.72	.44	2.07	2.11	0	0	0	0
+130	"East"	1	47.42	19.7	108.1	"h"	"n"		17.8	10	5.5	8974.484	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1443	108.1	16.858342	1.5	1.22	1.13	1.11	0	0	0	0
+131	"West"	2	16.45	13.4	81	"l"	"n"		18.2	17	11.7	37971.91	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	501	81	20.423715	2.36	.67	2.75	2.81	0	0	0	0
+132	"West"	2	44.65	12.9	88.2	"l"	"n"		16.3	9.2	5.4	7608.683	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1359	87.5	16.848979	-1.37	-3.16	1.06	.78	0	0	0	0
+133	"South"	1	26.95	13.4		""	"n"		16.6	9.8	6.2	28592.14	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	820			.44						0	
+134	"North"	1	16.92	10.8	81.9	"l"	"n"		15.2	7.8	5.4	27845.78	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	515	81.9	16.101115	.07	.28	-.11	-.01	0	0	0	0
+135	"West"	1	39.71	16.3	99.4	"h"	"n"		17.1	6.8	5.8	17208.7	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1209	99.4	16.497373	.69	.24	.78	.85	0	0	0	0
+136	"West"	1	3.99	7.3	60.7	"l"	"n"	42.4	15.3	10.2	9.4	3384.336	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	121	60.7	19.812783	.39	-1.51	1.71	1.94	0	0	0	0
+137	"West"	2	0	3.7	50.1	"l"	"n"	36.7				4905.134	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	50.1	14.740978	.98	.51	1.08	1	0	0	0	0
+138	"West"	2	59.24	18.8		""	"n"		17.7	7.8	6.2	9762.131	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1803			.26						0	
+139	"West"	2	57.69	21.7	113.1	"h"	"n"		18.4	13.1	10	10991.75	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1756	113.1	16.964246	1.3	1.05	1.06	.91	0	0	0	0
+140	"West"	1	7.46	7.6	63.3	"l"	"n"	45.1	14.9	16.8	11.2	7801.44	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	227	63.3	18.967329	-.97	-2.99	1.11	1.23	0	0	0	0
+141	"West"	2	46.52	15.2	99	"h"	"n"		16.8			12220.48	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1416	99	15.508621	-.28	-.67	.17	.19	0	0	0	0
+142	"North"	1	1.76	4.7	54	"l"	"n"	36.4				1532.566	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	54	54	16.117969	-1.02	-1.84	.01	1.09	0	0	0	0
+143	"West"	2	16.43	9.2	75.6	"l"	"n"		14.1	9.4	6.8	5534.878	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	500	75.6	16.096974	-.6	-1.23	.17	-.07	0	0	0	0
+144	"East"	1	59.13	21.8	112.4	"l"	"n"		18.5	9.6	5.8	8782.556	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1800	111.7	17.472301	1.33	.48	1.54	1.43	0	0	0	0
+145	"West"	1	0	4.5	52.4	"l"	"y"	37.8				1548.896	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	52.4	16.388904		1.33				0		
+146	"East"	2	8.32	8.5	68.2	"l"	"n"		13.3	11.4	5.4	17268.69	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	253	68.2	18.274698	.46	-.42	.92	.95	0	0	0	0
+147	"North"	1	4.6	7.9	64.9	"l"	"n"	42	15.5	10	8.1	2619.532	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	140	64.9	18.75589	.69	-.11	1	1.04	0	0	0	0
+148	"North"	2	9.75	11.2	77	"l"	"n"		17.5	15	13.2	6214.141	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	297	77	18.8902	2.28	2.38	1.4	1.76	0	0	0	0
+149	"East"	2	35.54	14.1	95	"h"	"n"		15.3	8.6	5.5	6014.479	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1082	95	15.623269	.19	.07	.16	.17	0	0	0	0
+150	"East"	2	11.21	8.8	70	"l"	"n"		14.9	13.6	7.7	8922.042	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	341	70	17.959184	.03	-1.2	.97	.82	0	0	0	0
+151	"South"	1	50.58	15.4	99.1	"l"	"n"		16.6	9.2	4.8	20885.04	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1540	98.4	15.904884	-.67	-1.49	.47	.39	0	0	0	0
+152	"East"	1	16.82	12	80.4	"l"	"n"		15.5	12.1	10.4	7556.607	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	512	80.4	18.563896	1.04	-.25	1.63	1.55	0	0	0	0
+153	"North"	2	51.96	18.6	108.1	"h"	"n"		18.7	11	10	53287.74	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1582	108.1	15.917013	.71	.69	.45	.42	0	0	0	0
+154	"East"	2	30.41	10.5	85.6	"l"	"n"		13.7	7.8	6.5	7177.334	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	926	84.9	14.567127	-1.61	-1.72	-.76	-.91	0	0	0	0
+155	"West"	2	31.63	16.3	91.8	"h"	"n"		18.7	10.4	7.8	9000.441	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	963	91.8	19.342036	1.71	-.03	2.47	2.35	0	0	0	0
+156	"West"	2	21.24	13.1	88	"l"	"n"		17	9.4	7.4	6294.871	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	646	88	16.916323	1.45	1.34	.98	.99	0	0	0	0
+157	"South"	1	9.98	9.7	71.2	"l"	"n"		15.6	13.2	8.4	4683.433	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	304	71.2	19.134265	.53	-.9	1.4	1.3	0	0	0	0
+158	"West"	2	13.6	10	73.3	"l"	"n"		15.1	6.8	6.8	5643.036	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	414	73.3	18.611956	.58	-.98	1.57	1.35	0	0	0	0
+159	"South"	1	44.28	14.9	103.2	"h"	"n"		16.2	7	11.4	46536.41	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1348	103.2	13.990296	-.43	.49	-1.2	-1.08	0	0	0	0
+160	"East"	2	10.98	10	72	"l"	"n"		15.9	12.2	8.2	15553.45	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	334	72	19.290123	1.11	-.29	1.73	1.66	0	0	0	0
+161	"West"	1	17.6	9.8	82	"l"	"n"		14.3	9	5.2	6175.373	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	536	82	14.574658	-.92	.05	-1.36	-1.23	0	0	0	0
+162	"North"	2	2.4	4.7	55.8	"l"	"n"	39.7	11.4	9.2	7.3	2316.059	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	73	55.8	15.094873	-1.13	-1.17	-.66	-.15	0	0	0	0
+163	"South"	1	27.47	12.5		""	"n"		15	6.8	6.6	11054.81	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	836			-.22						0	
+164	"South"	1	3.48	6.4	65.4	"l"	"n"		14.5	8.4	5	8633.454	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	106	65.4	14.963199	-.39	1.32	-1.55	-1.75	0	0	0	0
+165	"South"	1	22.94	11.8	80.3	"l"	"n"		16.2	12.4	7.8	7050.331	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	698	80.3	18.299992	-.1	-2.2	1.81	1.37	0	0	0	0
+166	"West"	1	50.09	15	99.9	"l"	"n"		15.7	6.2	4	9853.554	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1525	99.2	15.24291	-.84	-1.24	-.05	-.11	0	0	0	0
+167	"West"	2	11.3	8.8	75.5	"l"	"n"		14.6	8.4	7.2	8732.772	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	344	75.5	15.43792	.01	.93	-.73	-.55	0	0	0	0
+168	"West"	1	8.49	9	69.6	"l"	"n"		15	10.4	9	3624.381	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	258	69.6	18.579073	.25	-.75	.92	.93	0	0	0	0
+169	"South"	2	41.63	16.4	101.5	"h"	"n"		17.1	6.2	6.8	7209.276	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1267	101.5	15.918852	.71	.67	.43	.5	0	0	0	0
+170	"West"	1	41.87	13.4	93.6	"h"	"n"		14.5	9.1	5.1	47293.93	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1274	93.6	15.295128	-1.09	-1.56	-.12	-.3	0	0	0	0
+171	"West"	1	54.67	19.6	105.4	"h"	"n"		19.5	11.2	8	10239.39	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1664	105.4	17.643098	.87	-.37	1.66	1.65	0	0	0	0
+172	"West"	1	20.8	12.7	87.2	"l"	"n"		15.4	10	6.4	5429.046	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	633	87.2	16.702088	.88	.79	.61	.65	0	0	0	0
+173	"North"	1	7.65	9.4	69	"l"	"n"	45.4	16.5	11.2	7	16089.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	233	69	19.743751	.92	-.51	1.6	1.63	0	0	0	0
+174	"South"	1	47.24	19	103.4	"h"	"n"		17.7	7.9	8.9	20343.34	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1438	103.4	17.771026	1.23	.12	1.74	1.74	0	0	0	0
+175	"West"	1	11.94	11	78.3	"l"	"n"		16	6.4	6	2112.131	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	363	78.3	17.941929	1.22	1.11	.8	.97	0	0	0	0
+176	"East"	1	9.99	10.3	71.4	"l"	"n"		17.4	16.2	7.3	3739.832	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	304	71.4	20.20416	1.08	-.82	2.04	1.94	0	0	0	0
+177	"North"	2	12.63	9.7	72.2	"l"	"n"		15.2	7.6	8.1	4943.338	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	384	72.2	18.6079	.53	-.98	1.48	1.29	0	0	0	0
+178	"East"	1	5.81	8.8	66.6	"l"	"n"	43.2	15	13.4	10.2	6556.549	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	177	66.6	19.839661	1.04	-.34	1.61	1.67	0	0	0	0
+179	"East"	2	51.02	16.9	103.1	"h"	"n"		16.8	12.2	6.2	10206.24	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1553	103.1	15.898984	.12	-.31	.44	.48	0	0	0	0
+180	"South"	1	21.58	12.6	83.9	"l"	"n"		16.6	8.1	6.5	7054.742	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	657	83.9	17.899736	.68	-.61	1.49	1.36	0	0	0	0
+181	"South"	2	30.73	17.4	87.6	"h"	"n"		18.7	17.2	15.5	5201.209	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	935	87.6	22.674673	2.29	-1.02	4.22	3.97	0	0	0	0
+182	"North"	2	7.35	7.3	68.9	"l"	"n"	43.9	13.8	8.5	6.3	6757.283	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	224	68.9	15.377453	-.5	.46	-1.05	-.93	0	0	0	0
+183	"East"	2	57.14	21.3	107.1	"h"	"n"		19.2	12	7	10371.51	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1739	107.1	18.569519	1.22	-.17	1.92	2.02	0	0	0	0
+184	"West"	1	19.08	10.9	81	"l"	"n"		15	10.1	7	34845.2	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	581	81	16.613321	-.21	-.84	.44	.3	0	0	0	0
+185	"West"	1	34.14	14	95.4	"h"	"n"		15.6	6.6	5.6	8257.063	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1039	95.4	15.382654	-.02	.15	-.22	-.14	0	0	0	0
+186	"West"	2	38.31	14.7	95.8	"h"	"n"		16.5	11.2	7	10790.13	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1166	95.8	16.017188	.22	-.21	.48	.46	0	0	0	0
+187	"East"	2	22.57	10.8	85.5	"l"	"n"		14.7	8.4	6	8694.463	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	687	85.5	14.773777	-.28	.12	-.53	-.56	0	0	0	0
+188	"North"	1	0	4.7	57.2	"l"	"n"	36.1				2556.139	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	57.2	14.365005	2.47	3.86	.71	-1.18	0	0	0	0
+189	"South"	1	27.19	16.4	92.4	"h"	"n"		16.7	11	10	39814.56	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	828	92.4	19.208784	2.14	.81	2.31	2.39	0	0	0	0
+190	"South"	1	4.33	8	62	"l"	"n"	43.3	15.4	11.4	12.5	12079.45	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	132	62	20.811655	.97	-1.25	2.25	2.38	0	0	0	0
+191	"North"	2	28.3	15.6	89.9	"l"	"n"					7245.515	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	861	89.2	19.606264	1.79	-.04	2.56	2.43	0	0	0	0
+192	"South"	1	46.57	17.1	101.7	"h"	"n"		16.8	9.5	6	16488.53	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1417	101.7	16.533098	.47	-.2	.89	.91	0	0	0	0
+193	"East"	2	33.87	13.7	94	"h"	"n"		15.8	4	6.2	19809.74	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1031	94	15.504753	.14	.12	.05	.05	0	0	0	0
+194	"West"	1	31.68	15	96.1	"h"	"n"		16	8.8	8.5	6462.957	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	964	96.1	16.242187	.82	.85	.4	.56	0	0	0	0
+195	"West"	1	44.81	15.9	97.1	"h"	"n"		17.8	10.4	7.2	22299.11	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1364	97.1	16.863925	.04	-1.08	1.11	1.05	0	0	0	0
+196	"North"	2	42.49	15.2	96.6	"h"	"n"		15.2	12.2	7.2	10720.58	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1293	96.6	16.288809	.07	-.67	.69	.67	0	0	0	0
+197	"North"	1	32.82	15.6	95.5	"h"	"n"		16.2	9	6.4	6660.146	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	999	95.5	17.104795	1.02	.44	1.07	1.16	0	0	0	0
+198	"West"	1	25.86	11.4	87.6	"h"	"n"		15	13	7	7347.201	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	787	87.6	14.85582	-.81	-.34	-.93	-.97	0	0	0	0
+199	"East"	1	39.83	13.9	93.8	"h"	"n"					14962.78	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1212	93.8	15.798254	-.61	-1.22	.24	.11	0	0	0	0
+200	"East"	2	17.09	8.6	72.6	"l"	"n"		15.5	8.4	6.4	39376.76	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	520	72.6	16.316434	-1.28	-2.51	.37	-.11	0	0	0	0
+201	"West"	2	46.94	16.7	101.8	"h"	"n"		16	12	7	57007.01	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1429	101.8	16.114651	.36	-.07	.58	.63	0	0	0	0
+202	"West"	1	36.31	15.2	96.6	"h"	"n"					11071.82	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1105	96.6	16.288809	.45	.09	.55	.62	0	0	0	0
+203	"North"	2	49.18	17.3	101.8	"h"	"n"		18	8.8	9.5	9788.845	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1497	101.8	16.693619	.43	-.37	.95	1.01	0	0	0	0
+204	"West"	2	35.5	14.6	93.5	"l"	"n"		17	12.4	6.1	6792.316	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1081	92.8	16.953403	.46	-.51	1.09	.99	0	0	0	0
+205	"West"	2	46.22	15.4	98.4	"l"	"n"		16.9	15.2	8.4	9404.963	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1407	97.7	16.13361	-.16	-.94	.6	.59	0	0	0	0
+206	"North"	2	9.52	7	67.6	"l"	"n"		12.8	10.8	6	7056.125	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	290	67.6	15.318092	-1.48	-1.33	-.97	-1.01	0	0	0	0
+207	"West"	1	6.42	8.9	69.8	"l"	"n"	44.8	16.5	9	7.2	8332.55	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	195	69.8	18.2675	.88	.71	.63	.73	0	0	0	0
+208	"South"	1	30.92	12.9	87.8	"h"	"n"		17	7.5	5.2	40544.4	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	941	87.8	16.734034	-.36	-1.39	.75	.53	0	0	0	0
+209	"North"	1	9.19	9.7	71.3	"l"	"n"		16.3	14.2	6.2	5612.984	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	280	71.3	19.080626	.74	-.42	1.3	1.27	0	0	0	0
+210	"North"	1	3.83	6.7	61.5	"l"	"n"	40.3	13.8	10.2	8.6	2089.863	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	117	61.5	17.714323	-.28	-.98	.4	.56	0	0	0	0
+211	"South"	2	24.59	15.3		""	"n"		17.8	15.5	12	11298.46	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	748			2.14						0	
+212	"South"	1	53.32	15.6	99.8	"l"	"n"		15.8	9.6	5.8	7242.905	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1623	99.10001	15.884635	-.77	-1.64	.47	.39	0	0	0	0
+213	"South"	2	44.41	15.9	98.5	"h"	"n"		17.1	7.6	7.6	13597.11	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1352	98.5	16.387951	.23	-.5	.76	.78	0	0	0	0
+214	"West"	1	6.36	11.9	73.2	"l"	"n"	46.5	16.7	15.4	16.2	2089.863	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	194	73.2	22.208786	3.68	2.32	2.93	3.06	0	0	0	0
+215	"East"	1	31.23	14.3	95.6	"h"	"n"		15.7	7.6	6.8	6788.354	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	951	95.6	15.646611	.47	.8	-.09	.08	0	0	0	0
+216	"East"	1	34.74	14	96.2	"h"	"n"		15.9	10.4	6.2	38796.69	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1057	96.2	15.127875	-.08	.26	-.42	-.31	0	0	0	0
+217	"North"	2	55.12	17.4	102.5	"h"	"n"		18.1	7.4	5	20472.08	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1678	102.5	16.56157	.02	-.94	.84	.92	0	0	0	0
+218	"North"	1	26.76	12.7	87	"h"	"n"		14.5	8.4	6.8	5605.133	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	815	87	16.778967	0	-.76	.67	.53	0	0	0	0
+219	"East"	1	0	5.5	55.9	"l"	"n"	38.2				23732.82	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	55.9	17.601069	3.77	3.18	2.73	1.55	0	0	0	0
+220	"East"	2	11.78	9.2	74.5	"l"	"n"		15	11.3	8.2	6691.501	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	359	74.5	16.57583	.27	.29	.13	.18	0	0	0	0
+221	"North"	1	9.96	10.4	74.5	"l"	"n"		16.6	12.5	7	8884.925	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	303	74.5	18.737894	1.18	.56	1.15	1.2	0	0	0	0
+222	"West"	2	13.99	10.8	75.9	"l"	"n"		15.2	12	7.4	6742.241	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	426	75.9	18.747363	1.12	-.18	1.68	1.6	0	0	0	0
+223	"East"	1	42.14	14.9	95.6	"h"	"n"		15.3	12.4	5.5	62277.4	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1283	95.6	16.303111	-.25	-1.09	.67	.59	0	0	0	0
+224	"East"	1	2.52	5	56.4	"l"	"n"	38.7				15700.27	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	77	56.4	15.718524	-1.53	-1.82	-.7	.12	0	0	0	0
+225	"South"	2	5.23	8.3	67.5	"l"	"n"	41.8	15.3	10.2	7.8	5261.069	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	159	67.5	18.216736	1.39	1.38	.85	.9	0	0	0	0
+226	"East"	1	10.98	8.7	71.4	"l"	"n"		15.5	9.8	6.5	20447.78	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	334	71.4	17.065649	-.71	-1.33	.1	-.05	0	0	0	0
+227	"South"	2	27.84	12.9	90.4	"l"	"n"		16.2	9.2	5.8	34672.06	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	847	89.7	16.03263	.4	.22	.33	.29	0	0	0	0
+228	"West"	1	14.97	12.4	79.5	"l"	"n"		15.4	9.5	6.2	12145.83	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	456	79.5	19.619476	1.69	.15	2.13	2.1	0	0	0	0
+229	"South"	1	32.95	13.5	91	"h"	"n"		14.9	9.3	7.2	6523.25	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1003	91	16.302379	-.2	-.85	.48	.35	0	0	0	0
+230	"South"	1	29.1	9.1		""	"n"					7265.628	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	886			-3.14						0	
+231	"West"	1	35.28	15.9	96.5	"h"	"n"		16	8.4	5.2	18499.64	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1074	96.5	17.074283	.92	.24	1.11	1.18	0	0	0	0
+232	"North"	1	43.67	14.4	97.2	"h"	"n"		15.6	7	4.6	11280.26	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1329	97.2	15.24158	-.66	-.9	-.13	-.18	0	0	0	0
+233	"South"	2	1.47	6.2	59.3	"l"	"n"	38.6				2101.346	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	45	59.3	17.631217	2.16	1.95	1.56	.92	0	0	0	0
+234	"South"	2	26.75	13.1	86.3	"l"	"y"		15.5	11.2	7.4	6724.405	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	814	85.60001	17.878197		-.73				0		
+235	"North"	1	50.58	16.4	104.3	"h"	"n"		15.7	7	6.2	10439.2	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1540	104.3	15.07562	-.18	-.11	-.17	-.16	0	0	0	0
+236	"North"	1	19.46	11.8	88.6	"l"	"n"		16.3	8.2	5.4	9530.771	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	592	88.6	15.031924	.44	1.77	-.82	-.6	0	0	0	0
+237	"East"	1	55.22	19.7	111	"h"	"y"		17.6	10	7.8	11602.57	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1681	111	15.988963		.82				0		
+238	"East"	1	39.13	16.3	98.9	"l"	"n"		17.2	5.4	8	22299.11	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1191	98.2	16.90303	.75	.03	1.06	1.11	0	0	0	0
+239	"North"	1	9.31	7.6	66.2	"l"	"n"		14.2	10.4	7	4009.944	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	283	66.2	17.341939	-1.52	-2.73	.15	.08	0	0	0	0
+240	"South"	2	6.26	9.7	68.3	"l"	"n"	43.5	16.6	20.2	12	6578.714	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	191	68.3	20.793628	2.2	.93	2.25	2.29	0	0	0	0
+241	"West"	2	9.3	10.1	73.3	"l"	"n"		16.2	14	12.2	6253.778	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	283	73.3	18.798076	1.58	1.13	1.31	1.46	0	0	0	0
+242	"South"	2	53.19	15	99.4	"h"	"n"		16.3	9.8	5	58632.88	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1619	99.4	15.181633	-.9	-1.4	-.05	-.04	0	0	0	0
+243	"East"	2	9.96	8.5	72.8	"l"	"n"		14.3	10.9	9.5	1742.089	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	303	72.8	16.038219	.03	.56	-.41	-.29	0	0	0	0
+244	"East"	1	45.87	17.2	101	"h"	"n"		18.4	9.9	5.2	23098.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1396	101	16.861093	.57	-.27	1.12	1.13	0	0	0	0
+245	"West"	2	55.38	17.6	105.9	"h"	"n"		17.8	5.2	3.8	54490.71	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1686	105.9	15.693534	.08	-.23	.29	.32	0	0	0	0
+246	"East"	2	8.75	8.9	68.1	"l"	"n"		14.8	12.2	10	3027.377	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	266	68.1	19.190919	.71	-.7	1.49	1.46	0	0	0	0
+247	"West"	2	54.64	17.1	103.8	"h"	"n"		18	14.4	7.2	9383.662	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1663	103.8	15.870894	-.07	-.6	.41	.46	0	0	0	0
+248	"West"	1	4.35	6.9	62.9	"l"	"n"	41.4	13	11	7.2	6556.549	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	132	62.9	17.440052	-.36	-.82	.16	.26	0	0	0	0
+249	"South"	2	12.18	10.6	77	"l"	"n"		16	11.5	7.6	16643.19	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	371	77	17.878226	1.32	1.07	1.01	1.18	0	0	0	0
+250	"North"	1	23.36	12.4	86	"l"	"n"		14.6	6.4	6.2	7600.62	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	711	86	16.765819	.27	-.42	.77	.66	0	0	0	0
+251	"West"	2	11.64	10.3	76.1	"l"	"n"		14.9	13	8.6	18838.78	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	354	76.1	17.785576	1.21	.99	.9	1.05	0	0	0	0
+252	"East"	2	55.2	19.9	107	"h"	"n"		18.9	10.4	6	48231.79	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1680	107	17.38143	.92	.04	1.31	1.36	0	0	0	0
+253	"West"	2	58.85	14.6	101.5	"h"	"n"		15.9	7.1	4.4	18922.48	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1791	101.5	14.171662	-1.48	-1.55	-.78	-.78	0	0	0	0
+254	"East"	1	3.4	5.9	61.1	"l"	"n"	40.6	13.9	8.8	7	9783.874	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	103	61.1	15.804095	-1.01	-.65	-.88	-.78	0	0	0	0
+255	"North"	2	4.73	6.2	63	"l"	"n"	41	15.5	10	7.2	6479.68	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	144	63	15.621063	-.73	-.24	-.8	-.72	0	0	0	0
+256	"West"	2	25.65	11.2	88	"l"	"n"		14.6	9.4	5.4	12327.42	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	781	87.3	14.695674	-.44	.04	-.75	-.76	0	0	0	0
+257	"South"	2	46.56	15.9	103.8	"h"	"n"		15.5	5.6	3.4	24416.82	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1417	103.8	14.757146	.04	.45	-.38	-.33	0	0	0	0
+258	"East"	2	41.26	16.4	102.9	"h"	"n"		16.5	7.4	5.6	8952.506	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1256	102.9	15.488633	.74	1.07	.12	.2	0	0	0	0
+259	"West"	1	41.99	17.6	100.8	"h"	"n"		18.8	10.6	8	20588.16	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1278	100.8	17.321743	1.1	.24	1.4	1.44	0	0	0	0
+260	"East"	2	26.08	13.4	87.2	"l"	"n"		17.5	12	7.2	5852.934	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	794	86.5	17.909051	.93	-.31	1.55	1.42	0	0	0	0
+261	"East"	2	32.21	15.1	92.3	"h"	"n"		17.8	13	10	36248.77	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	980	92.3	17.724481	1.08	-.01	1.54	1.45	0	0	0	0
+262	"North"	2	9.95	9.2	71.7	"l"	"n"		16.4	12	7.6	18423.14	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	303	71.7	17.895735	.67	.11	.82	.85	0	0	0	0
+263	"East"	1	2.77	6.2	61	"l"	"n"	40.7	13	13	8.2	6712.666	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	84	61	16.662187	0	.12	-.1	-.12	0	0	0	0
+264	"East"	1	3.3	6.6	60.2	"l"	"n"	42.2	14.5	12.1	9.2	4308.374	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	100	60.2	18.211719	.04	-.96	.82	1.04	0	0	0	0
+265	"East"	1	46.03	14.6	99.2	"h"	"n"		16.1	6.2	4.6	8467.596	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1401	99.2	14.836435	-.74	-.73	-.43	-.44	0	0	0	0
+266	"North"	1	7.29	9.5	67.4	"l"	"n"	44.1	16.8	10	9.2	5718.585	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	222	67.4	20.912396	1.14	-1.01	2.26	2.28	0	0	0	0
+267	"South"	1	56.4	20	112.5	"h"	"n"		17	8.2	5.4	21503.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1717	112.5	15.802469	.89	1	.43	.32	0	0	0	0
+268	"North"	1	50.89	21.2	105.3	"l"	"n"		20.9	11.8	7.2	24272.53	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1549	104.6	19.376372	1.76	-.08	2.7	2.69	0	0	0	0
+269	"North"	2	6.55	6	63.9	"l"	"n"		12.5	9.2	7.2	7018.519	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	199	63.9	14.694321	-1.84	-1.17	-1.58	-1.45	0	0	0	0
+270	"West"	1	56.28	15.4	105.4	"h"	"n"		15.5	6.4	4.6	24057.13	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1713	105.4	13.862433	-1.07	-.56	-1.13	-1.16	0	0	0	0
+271	"West"	1	16.67	11.8	80.8	"l"	"n"		16.3	9.1	6.8	6690.64	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	507	80.8	18.074207	.92	-.04	1.3	1.27	0	0	0	0
+272	"South"	1	8.55	10.7	76	"l"	"n"		16.2	10.2	7.6	7319.865	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	260	76	18.52493	1.84	2.09	.89	1.16	0	0	0	0
+273	"North"	1	52.88	21.5	104.4	"h"	"n"		19.4	16.8	10.2	12952.06	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1610	104.4	19.725928	1.7	-.38	2.87	2.89	0	0	0	0
+274	"West"	2	14.64	10.6	76.6	"l"	"n"		16.3	12	7	13626.11	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	446	76.6	18.065432	.86	-.19	1.33	1.26	0	0	0	0
+275	"East"	2	5.5	6.4	66.3	"l"	"n"	42.5	11.5	9.4	5.1	4473.792	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	167	66.3	14.559715	-.85	.63	-1.65	-1.6	0	0	0	0
+276	"North"	1	19.17	10.8	83.7	"l"	"n"		14	6	5	34075.94	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	583	83.7	15.416042	-.3	.11	-.51	-.44	0	0	0	0
+277	"South"	2	19.03	9.2	80.2	"l"	"n"		14	10.2	7.2	6514.242	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	579	80.2	14.303394	-1.05	-.52	-1.07	-1.1	0	0	0	0
+278	"East"	2	47.97	15.8	101.8	"h"	"n"					15941.1	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1460	101.8	15.246196	-.12	-.21	-.01	.03	0	0	0	0
+279	"East"	2	8.34	9.8	70	"l"	"n"		15.3	12	9.8	17273.98	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	254	70	20	1.6	.32	1.91	1.95	0	0	0	0
+280	"East"	2	1.64	5.3	57.1	"l"	"n"	37.6				4531.861	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	50	57.1	16.255626	.72	.57	.55	.4	0	0	0	0
+281	"East"	1	58.48	17.2	110.8	"h"	"y"		16.8	10.2	6.4	11302.6	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1780	110.8	14.010348		.36				0		
+282	"North"	1	23.23	12.5	86.8	"l"	"n"		15.7	13	6.2	6906.81	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	707	86.8	16.590922	.36	-.11	.64	.56	0	0	0	0
+283	"West"	1	22.49	11.3		""	"n"		15.5	11.2	6.1	14482.81	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	685			-.42						0	
+284	"East"	1	48.26	19.3	107.3	"h"	"n"		17	10.1	5	54799.68	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1469	107.3	16.763235	1.27	.91	1.07	1.06	0	0	0	0
+285	"South"	2	14.66	11.8	78.8	"l"	"n"		16	12	7.4	6691.149	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	446	78.8	19.003323	1.7	.62	1.87	1.95	0	0	0	0
+286	"East"	1	13.71	14.2	81.3	"l"	"n"		17.3	13	8	7800.799	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	417	81.3	21.483608	3.21	1.46	3.07	3.28	0	0	0	0
+287	"North"	1	59.19	28.1	120.7	"h"	"n"					8318.709	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1802	120.7	19.288205	3.13	2.43	2.54			0	0	0
+288	"East"	1	5.47	7.2	63.5	"l"	"n"	44.5	13.2	10.9	6	7584.209	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	166	63.5	17.856035	-.62	-1.51	.37	.51	0	0	0	0
+289	"West"	2	40.18	15.5	99.9	"l"	"n"		16.2	8.8	5.2	9667.938	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1223	99.2	15.751007	.43	.33	.31	.36	0	0	0	0
+290	"North"	1	21.57	11.2	82.6	"l"	"n"		15	6.2	6.4	6305.741	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	657	82.6	16.415644	-.36	-1.06	.43	.27	0	0	0	0
+291	"South"	1	34.87	20.2	97.3	"h"	"n"		21.7			10301.02	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1061	97.3	21.336623	2.92	.54	3.82	3.84	0	0	0	0
+292	"South"	2	33.34	12	88.9	"l"	"n"		15.2	8.6	7	6637.441	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1015	88.2	15.42567	-.85	-1.35	-.02	-.18	0	0	0	0
+293	"North"	1	2.11	5.7	58.7	"l"	"n"	43	13.6	10	8.4	7167.165	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	64	58.7	16.542404	.05	-.03	.1	.17	0	0	0	0
+294	"South"	1	19.53	10.1	80.1	"l"	"n"		13.7	6.8	5.8	7224.029	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	594	80.1	15.741872	-.96	-1.31	-.22	-.43	0	0	0	0
+295	"West"	2	22.07	13.3	86.9	"l"	"n"		16	8	6	5613.126	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	672	86.9	17.612138	1.44	.71	1.45	1.41	0	0	0	0
+296	"South"	2	23.39	11.1	84.2	"l"	"n"		14.6	7.4	6.8	6339.303	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	712	84.2	15.65665	-.18	-.52	.17	.08	0	0	0	0
+297	"West"	1	29.81	14.5	92.3	"h"	"n"		17.7	12.6	6	7806.214	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	907	92.3	17.020197	.76	.15	.93	.95	0	0	0	0
+298	"East"	2	57.15	19.2	105.9	"h"	"n"		17.6	12.4	9.5	46933.18	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1740	105.9	17.120219	.54	-.43	1.15	1.23	0	0	0	0
+299	"North"	2	16.53	11	79.2	"l"	"n"		14.7	12.6	8.8	29424.05	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	503	79.2	17.536477	.83	.01	1.14	1.12	0	0	0	0
+300	"East"	1	42.41	17.6	101.4	"h"	"n"		17.8	16.2	8.1	10069.45	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1291	101.4	17.117359	1.06	.33	1.26	1.31	0	0	0	0
+301	"West"	1	8.16	10.5	77.6	"l"	"n"		15.5	8.2	6.4	2613.818	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	248	77.6	17.436763	1.79	3.07	.13	.57	0	0	0	0
+302	"South"	1	35.04	14.9	90.3	"h"	"n"		17.1	13	11.4	35028.89	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1067	90.3	18.273037	.41	-1.41	1.93	1.7	0	0	0	0
+303	"West"	1	54.88	17.2	105.9	"l"	"n"		17.4	7.4	5.4	8385.246	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1670	105.2	15.541644	-.13	-.44	.23	.2	0	0	0	0
+304	"South"	2	20.55	12.9	84.2	"l"	"n"		16.3	7.9		5016.595	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	625	84.2	18.195565	1.44	.32	1.75	1.71	0	0	0	0
+305	"West"	1	1.01	6.3	60.9	"l"	"n"	40.2				17387.36	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	31	60.9	16.98658	2.63	3.13	1.42	.12	0	0	0	0
+306	"North"	2	19.7	12.5	87.9	"h"	"n"		15.2	15	10.1	5988.65	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	600	88.6	15.923649	1.32	2.06	.23	.34	0	0	0	0
+307	"North"	1	12.42	10.3	76.3	"l"	"n"		15.2	11.5	7	2984.108	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	378	76.3	17.692456	.51	.02	.68	.64	0	0	0	0
+308	"East"	1	9.1	10.3	75.4	"l"	"n"		15.7	11.8	10.2	7778.823	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	277	75.4	18.117344	1.32	1.47	.67	.86	0	0	0	0
+309	"North"	2	30.29	16.4	91.2	"h"	"n"		18.5	12.8	10.1	6322.698	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	922	91.2	19.717606	1.91	.08	2.65	2.54	0	0	0	0
+310	"North"	1	29.55	11.7	89.2	"h"	"n"		15	13	6	5337.625	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	899	89.2	14.7047	-1.04	-.71	-.94	-1.03	0	0	0	0
+311	"East"	2	1.89	4.6	54.2	"l"	"n"	39				7681.36	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	58	54.2	15.658827	-.71	-1.27	-.02	.63	0	0	0	0
+312	"South"	2	9.51	9.5	71.6	"l"	"n"		14.6	13.8	8.6	1742.089	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	289	71.6	18.530946	1.04	.32	1.17	1.22	0	0	0	0
+313	"North"	1	14.95	10.8	79.5	"l"	"n"		14.8	11.2	5.5	6175.373	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	455	79.5	17.087932	.43	.16	.48	.5	0	0	0	0
+314	"North"	1	9.95	8.6	69	"l"	"n"		14.9	10.2	8.6	4311.751	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	303	69	18.063433	-.57	-1.85	.71	.58	0	0	0	0
+315	"North"	2	12.81	10.3	75.2	"l"	"n"		15.8	10.2	8.8	5383.062	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	390	75.2	18.213843	.97	.08	1.27	1.24	0	0	0	0
+316	"West"	2	1.2	5	56.3	"l"	"n"	39.2				17881.68	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	37	56.3	15.774414	.93	.92	.59	.23	0	0	0	0
+317	"South"	1	9.13	10.5	73.5	"l"	"n"		16	14	10.2	13862.46	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	278	73.5	19.436346	1.49	.6	1.51	1.57	0	0	0	0
+318	"South"	1	0	4.2	52.8	"l"	"n"	37				3694.242	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	52.8	15.065427	1.62	1.54	1.2	.68	0	0	0	0
+319	"East"	1	33.59	14.8	94.6	"l"	"n"		16.3	9	12.8	13889.72	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1022	93.9	16.785355	.5	-.16	.86	.86	0	0	0	0
+320	"West"	1	22.49	13.9	90.4	"l"	"n"		16.8	9	5.8	6068.583	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	685	90.4	17.008966	1.4	1.32	.92	1	0	0	0	0
+321	"East"	2	6.64	7.2	66.3	"l"	"n"	42.8	14.2	10	6.3	7212.476	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	202	66.3	16.379679	-.36	-.19	-.36	-.26	0	0	0	0
+322	"South"	1	35.63	14.5	96.3	"h"	"n"		14.5	8.4	5	36454.3	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1084	96.3	15.635631	.13	.13	.02	.1	0	0	0	0
+323	"East"	2	2.29	5.3	60.1	"l"	"n"	39.5				18423.14	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	70	60.1	14.673272	-.09	1.05	-.91	-1.2	0	0	0	0
+324	"West"	2	26.2	15.4	90.3	"h"	"n"		18.4	16	10.2	36248.77	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	797	90.3	18.886226	1.97	.81	2.13	2.07	0	0	0	0
+325	"West"	1	38.44	14.3	95.5	"l"	"n"		16.1	6	4.4	15081.9	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1170	94.8	15.911801	-.25	-.75	.3	.25	0	0	0	0
+326	"South"	2	9.99	10.2	72.2	"l"	"n"		16	9	8.6	4068.368	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	304	72.2	19.56707	1.49	.3	1.8	1.82	0	0	0	0
+327	"East"	1	1.12	3.6	52.1	"l"	"n"	39.1				9783.874	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	34	52.1	13.262551	-1.83	-1.59	-1.48	-.58	0	0	0	0
+328	"North"	2	37.44	13.5	91	"h"	"n"		15.5	7.6	6.4	5662.105	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1140	91	16.302379	-.35	-1.3	.67	.51	0	0	0	0
+329	"West"	1	14.59			""	"n"		14.6	7.9	7.8	5672.672	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	444										
+330	"North"	1	57.29	14.5		""	"n"		16.7	5.5	4.3	18334.28	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1744			-1.6						0	
+331	"East"	2	42.31	16	99.4	"l"	"n"		17.1	13.4	10	8697.777	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1288	98.7	16.424253	.46	-.13	.78	.8	0	0	0	0
+332	"South"	1	3.28	7.5	64.8	"l"	"n"	43.8	14.4	10.4	7.2	24009.28	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	100	64.8	17.861224	1.16	1.27	.59	.46	0	0	0	0
+333	"West"	1	7.96	10.5	73.7	"l"	"n"	44.3	15.8	11.3	7.5	3129.81	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	242	73.7	19.331002	1.85	1.44	1.36	1.52	0	0	0	0
+334	"North"	2	16.31	11.1	76.5	"l"	"n"		15.4	10.2	6.4	5131.603	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	496	76.5	18.967065	.94	-.86	1.97	1.76	0	0	0	0
+335	"South"	1	12.68	11.6	78.9	"l"	"n"		18.1	13.4	8.8	7365.344	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	386	78.9	18.633909	1.55	.97	1.33	1.46	0	0	0	0
+336	"North"	2	20.68	13.4	85.2	"l"	"n"		16.5	14	10.2	32302.44	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	629	85.2	18.459742	1.71	.61	1.91	1.88	0	0	0	0
+337	"West"	1	39.96	14.7	94.6	"h"	"n"		15.4	8.2	7	8986.204	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1216	94.6	16.426123	-.17	-1.03	.73	.63	0	0	0	0
+338	"South"	2	4.25	6	62.5	"l"	"n"	41.3	12.8	9	7.6	2865.472	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	129	62.5	15.36	-.7	-.04	-.93	-.88	0	0	0	0
+339	"East"	2	21.64	10.7	81.7	"l"	"n"		14.3	6.5	5.1	33945.85	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	659	81.7	16.030228	-.22	-.83	.39	.27	0	0	0	0
+340	"West"	1	19.55	11.7	82.4	"l"	"n"		17.5	10	7	43104.53	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	595	82.4	17.231831	.35	-.49	.92	.83	0	0	0	0
+341	"West"	1	5.97	7.8	66.7	"l"	"n"	43.6	13.8	10.2	5.5	13915	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	182	66.7	17.532465	-.15	-.42	.13	.21	0	0	0	0
+342	"East"	1	33.29	18.3	96	"h"	"n"		19.1	10.4	7.4	6799.147	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1013	96	19.85677	2.29	.49	2.87	2.92	0	0	0	0
+343	"North"	1	60.51	17.4	111.6	"h"	"n"		16	6.4	5	9363.191	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1842	111.6	13.970787	-.42	.29	-.99	-1.06	0	0	0	0
+344	"North"	2	8.07	8	66.2	"l"	"n"		15	11		8470.7	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	246	66.2	18.254673	.03	-1.13	.9	.91	0	0	0	0
+345	"West"	1	32.41	13	87	"h"	"n"		15.7	8.4	7.3	8047.981	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	986	87	17.17532	-.46	-1.88	1.11	.81	0	0	0	0
+346	"North"	1	29.6	12.5	86.9	"l"	"y"		15.6	9.8	6.5	5991.866	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	901	86.2	16.82269		-1.61				0		
+347	"North"	2	6.89	6.8	63.7	"l"	"n"	43.6	13	7.6	6.6	1973.058	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	210	63.7	16.758303	-.93	-1.49	-.1	.03	0	0	0	0
+348	"West"	2	31.34	15.8	95.5	"h"	"n"		17.1	12.4	7.4	7007.542	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	954	95.5	17.324087	1.51	1.06	1.28	1.3	0	0	0	0
+349	"West"	2	5.17	6.6	66	"l"	"n"	42.7	14.2	9.2	6.6	17769.14	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	157	66	15.151515	-.44	.76	-1.18	-1.14	0	0	0	0
+350	"East"	2	21.82	12.4	86.3	"l"	"n"		16.1	13	7.6	33945.85	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	664	86.3	16.649456	.94	.6	.83	.79	0	0	0	0
+351	"West"	1	18.75	10.3	79.4	"l"	"n"		16	7.6	6	20287.25	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	571	79.4	16.337899	-.67	-1.32	.21	-.04	0	0	0	0
+352	"North"	1	38.25	13.5	94.9	"h"	"n"		15.3	6.8	6	10091.49	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1164	94.9	14.98999	-.71	-.69	-.45	-.49	0	0	0	0
+353	"East"	2	18.9	11.8	83.6	"l"	"n"		14.8	8.4	5.2	6767.786	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	575	83.6	16.883772	1	.67	.86	.9	0	0	0	0
+354	"East"	2	24.81	12.4		""	"n"		16	13.2	9	13737.08	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	755			.5						0	
+355	"East"	1	5.64	6.8	61.5	"l"	"n"	42.2	13.2	7	6.6	2331.352	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	172	61.5	17.978717	-1.23	-2.6	.44	.73	0	0	0	0
+356	"North"	2	55.14	16.6	105.2	"h"	"n"		17.7	9.8	5.2	44770.89	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1678	105.2	14.999495	-.31	-.35	-.18	-.16	0	0	0	0
+357	"North"	1	8.64	6.8	66.5	"l"	"n"		13.4	8.4	6	2940.626	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	263	66.5	15.376788	-2.34	-2.24	-1.41	-1.42	0	0	0	0
+358	"East"	1	15.24	10.8	81.2	"l"	"n"		14.3	9	5.3	34845.2	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	464	81.2	16.379919	.38	.7	-.03	.14	0	0	0	0
+359	"West"	2	8.68	8.9	71.8	"l"	"y"		16.1	12.8	8.4	18999.93	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	264	71.8	17.263986		.88				0		
+360	"North"	1	43.74	17.4	98	"l"	"n"		18	12	8.8	21195.84	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1331	97.3	18.37907	.85	-.89	2.12	2.07	0	0	0	0
+361	"South"	2	52.19	20.1	107.8	"h"	"n"		19.2	14.5	11.3	54490.71	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1589	107.8	17.296511	1.21	.59	1.29	1.29	0	0	0	0
+362	"South"	1	7.37	8.2	67.1	"l"	"n"	44	15.7	11.2	10.4	3793.921	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	224	67.1	18.212469	-.24	-1.19	.62	.66	0	0	0	0
+363	"West"	2	58.47	19.2	106.1	"h"	"n"		18.3	12	10.8	11494.89	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1780	106.1	17.055737	.45	-.54	1.1	1.19	0	0	0	0
+364	"East"	1	13.97	9.1	74.3	"l"	"n"		13.3	9.5	6.8	7656.564	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	425	74.3	16.484043	-.94	-1.5	-.06	-.34	0	0	0	0
+365	"East"	2	9.63	10.4	72.5	"l"	"n"		16	15	12	2748.284	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	293	72.5	19.785968	1.73	.62	1.89	1.95	0	0	0	0
+366	"West"	1	6.22	7.6	68.5	"l"	"n"	44.4	13.4	11.3	8	2024.978	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	189	68.5	16.19692	-.48	.25	-.84	-.76	0	0	0	0
+367	"East"	1	7.37	6.9	64.6	"l"	"n"		14	8	6.6	4009.944	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	224	64.6	16.534234	-1.8	-2.33	-.57	-.47	0	0	0	0
+368	"South"	2	10.78	10.3	72.4	"l"	"n"					18838.78	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	328	72.4	19.649888	1.39	-.03	1.91	1.87	0	0	0	0
+369	"East"	1	40.54	13.8	93.2	"l"	"n"		15.4	7.6	4.4	12239.03	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1234	92.5	16.128561	-.73	-1.66	.51	.3	0	0	0	0
+370	"West"	1	57.46	21.3	114.7	"l"	"n"		17.7	8.6	5.4	57330.24	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1749	114	16.389658	1.28	1.19	.85	.69	0	0	0	0
+371	"North"	2	31.38	7.6		""	"n"		12.5	5.4	3	6003.122	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	955			-4.32						0	
+372	"South"	2	15.15	10.3	79.3	"l"	"n"		14.4	9.8	6	6389.425	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	461	79.3	16.37913	.54	.59	.28	.38	0	0	0	0
+373	"West"	2	26.46	10.8	85.5	"l"	"n"		13.7	6.2	6.4	5910.52	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	805	84.8	15.018689	-.85	-.9	-.47	-.56	0	0	0	0
+374	"North"	2	19.14	9.4	76.9	"l"	"n"		13.9	5.7	4.7	7883.099	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	583	76.9	15.895535	-.89	-1.68	.19	-.12	0	0	0	0
+375	"North"	2	13.52	10.5	74.7	"l"	"n"		15.1	12.5	10.2	7536.201	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	412	74.7	18.816902	.99	-.43	1.68	1.55	0	0	0	0
+376	"West"	1	48.71	18.8	104.7	"h"	"n"		17.8	10.6	9.2	8640.486	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1483	104.7	17.150015	1.03	.23	1.34	1.33	0	0	0	0
+377	"South"	2	14.39	12.4	81.7	"l"	"n"		16	9	8.4	6806.289	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	438	81.7	18.577086	2.12	1.8	1.61	1.86	0	0	0	0
+378	"West"	1	4.43	7.7	62.7	"l"	"n"	44.3	15	12	6	7778.823	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	135	62.7	19.586445	.56	-1.01	1.53	1.64	0	0	0	0
+379	"East"	1	58.13	24.3	116.3	"h"	"n"		20.5	12.8	8.4	11110.37	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1769	116.3	17.96581	2.18	1.61	1.84	1.6	0	0	0	0
+380	"South"	1	43.85	15.4	103.8	"h"	"n"		15.7	6.7	5.7	8899.363	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1335	103.8	14.293085	-.13	.7	-.93	-.81	0	0	0	0
+381	"North"	2	54.4		104.1	"h"	"n"		15.8	6.8	5.2	24288.83	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1656	104.1			-.51				0		
+382	"West"	2	2.93	5.2	55.8	"l"	"n"	39.1	13.4	9.5	11.5	6329.02	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	89	55.8	16.70071	-.86	-1.82	.25	.95	0	0	0	0
+383	"West"	2	7.13	8.6	65.8	"l"	"n"	45.4	14.5	10.2	9.4	21894.37	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	217	65.8	19.863082	.92	-.72	1.77	1.8	0	0	0	0
+384	"West"	2	9.87	9.2	72.2	"l"	"n"		14.9	10.2	7.2	2629.186	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	300	72.2	17.64873	.7	.37	.66	.73	0	0	0	0
+385	"West"	1	11.14	11	77.9	"l"	"n"		15.7	8	15	3175.755	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	339	77.9	18.126658	1.4	1.37	.86	1.05	0	0	0	0
+386	"East"	1	16.71	10.6	78.7	"l"	"n"		15.7	8.6	6.5	12448.53	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	509	78.7	17.114194	-.06	-.86	.64	.45	0	0	0	0
+387	"South"	2	7.68	8.4	66.6	"l"	"n"	43.9	15.5	14	11	2316.059	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	234	66.6	18.937857	.55	-.72	1.28	1.3	0	0	0	0
+388	"North"	2	10.37	8	69.1	"l"	"n"		14.3	8.8	6.4	6048.649	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	316	69.1	16.754594	-.57	-1.16	.13	.03	0	0	0	0
+389	"East"	2	6.77	5.7	60.7	"l"	"n"	39.4	12.8	11.5	6.6	18863.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	206	60.7	15.470254	-2.36	-2.71	-1	-.66	0	0	0	0
+390	"North"	1	14.26	10.9	80.1	"l"	"n"		16	6.8	6.2	8829.581	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	434	80.1	16.988752	.65	.71	.35	.49	0	0	0	0
+391	"North"	2	55.62	15.6	101.8	"h"	"n"		16.7	9.8	7	10665.27	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1693	101.8	15.053207	-.79	-1.15	-.14	-.11	0	0	0	0
+392	"South"	1	8.19	9.6	73.9	"l"	"n"		15.5	17.2	10.2	4183.058	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	249	73.9	17.578522	.94	1.38	.23	.41	0	0	0	0
+393	"South"	1	4.1	7.3	66.3	"l"	"n"	43.7	13.6	9	7.5	3888.589	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	125	66.3	16.607175	.3	1.05	-.4	-.45	0	0	0	0
+394	"North"	2	55.37	20.1	112.9	"h"	"n"		18.9	12.2	7.6	53287.74	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1685	112.9	15.769146	.97	1.3	.34	.17	0	0	0	0
+395	"South"	1	32.35	11.7		""	"n"		17	10.3	6.8	7270.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	985			-1.34						0	
+396	"North"	2	44.23	18.7	98.7	"h"	"n"		18.9	16.8	9.2	19110.9	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1346	98.7	19.19585	1.39	-.42	2.39	2.43	0	0	0	0
+397	"East"	1	3.95	6.5	61.7	"l"	"n"	40.7	13.1	16.2	10.8	6098.146	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	120	61.7	17.074304	-.61	-.99	-.05	.1	0	0	0	0
+398	"North"	1	46.78	14	92.8	"h"	"n"		16.3	10.4	9.4	68578.43	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1424	92.8	16.256687	-1.13	-2.37	.69	.41	0	0	0	0
+399	"East"	2	11.49	10.1	74.7	"l"	"n"		14.8	11	7.4	6757.283	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	350	74.7	18.100069	1.08	.51	1.09	1.14	0	0	0	0
+400	"North"	1	22.27	12.4	82.5	"l"	"n"		16	15	7.4	7089.941	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	678	82.5	18.218549	.43	-1.29	1.73	1.49	0	0	0	0
+401	"East"	1	8.57	9.2	71.2	"l"	"n"		15.4	12.2	7.4	3757.638	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	261	71.2	18.147962	.43	-.09	.65	.68	0	0	0	0
+402	"North"	2	22.09	11.9	83.9	"l"	"n"		16.2	8.4	5.8	7625.456	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	672	83.9	16.905305	.57	-.25	1.01	.92	0	0	0	0
+403	"East"	2	53.16	19.8	111.7	"h"	"n"		18.4	13.2	7.8	10091.76	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1618	111.7	15.869339	1.04	1.33	.42	.28	0	0	0	0
+404	"East"	1	8.54	6.7	68.1	"l"	"n"		14.8	12	5	23904.33	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	260	68.1	14.447097	-2.45	-1.46	-2.22	-2.21	0	0	0	0
+405	"West"	1	41.38	20.1	108.5	"h"	"n"		18.4	10.8	7.2	67788.79	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1260	108.5	17.074052	2.2	2.29	1.22	1.25	0	0	0	0
+406	"North"	1	57.53	17	107.8	"h"	"n"		16	10.8	5.5	11332.58	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1751	107.8	14.62889	-.4	-.18	-.46	-.51	0	0	0	0
+407	"North"	2	40.74	15.5	100.9	"h"	"n"		17.6	9.9	4.6	13041.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1240	100.9	15.224721	.38	.66	-.08	.01	0	0	0	0
+408	"West"	2	44.68	16.8	100.1	"h"	"n"		17.1	11.8	8.3	10400.06	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1360	100.1	16.76645	.6	-.15	1	1.04	0	0	0	0
+409	"South"	2	37.9	13.7	95.6	"h"	"n"		16.1	7.8	6.4	5462.757	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1154	95.6	14.990109	-.28	-.2	-.29	-.28	0	0	0	0
+410	"West"	2	1.24	6.2	57.1	"l"	"n"	39.9				6830.235	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	38	57.1	19.016014	2.52	1.26	2.62	2.04	0	0	0	0
+411	"East"	1	11.39	9	76.6	"l"	"n"		15.4	9	6	20880.96	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	347	76.6	15.338574	-.5	.67	-1.21	-1.07	0	0	0	0
+412	"North"	2	2.35	7	59.8	"l"	"n"	41.4				4905.134	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	72	59.8	19.574726	2.03	.81	2.17	1.95	0	0	0	0
+413	"North"	2	36.69	14.9	96.4	"h"	"n"		16.8	8.5	7.7	6787.368	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1117	96.4	16.033642	.49	.23	.48	.49	0	0	0	0
+414	"West"	2	9.58	8.9	70.9	"l"	"n"		13	9.6	5.2	1684.171	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	292	70.9	17.705064	.49	-.02	.67	.7	0	0	0	0
+415	"North"	1	2.16	5.9	59.9	"l"	"n"	40.6	12.7	6.9	7.2	3566.328	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	66	59.9	16.443655	.25	.46	-.01	-.13	0	0	0	0
+416	"West"	2	5.42	8	64.5	"l"	"n"	42.4	15.5	12.6	8.6	5889.382	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	165	64.5	19.229614	1	-.12	1.43	1.48	0	0	0	0
+417	"West"	2	21.71	13.3	87	"l"	"n"		16.2	10	6	7747.699	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	661	87	17.571674	1.5	.86	1.42	1.39	0	0	0	0
+418	"North"	2	50.68	18.3	104.7	"l"	"n"		18.7	10.8	6.6	57174.83	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1543	104	16.919378	.7	-.07	1.08	1.13	0	0	0	0
+419	"East"	2	55.55	14.9	95.9	"h"	"n"		15.8	7.8	6.3	27570.69	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1691	95.9	16.201269	-1.11	-2.42	.62	.59	0	0	0	0
+420	"East"	2	47.36	14.2	97.7	"h"	"n"		16	9.2	6	10999.57	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1442	97.7	14.876448	-.86	-1.09	-.28	-.3	0	0	0	0
+421	"East"	1	22.36	11.5	77.8	"l"	"n"		14.1	7.4	6	7089.941	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	681	77.8	18.999344	-.25	-2.9	2.22	1.59	0	0	0	0
+422	"North"	1	1.88	4	54.1	"l"	"n"	37.3				16089.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	57	54.1	13.666757	-2.4	-1.96	-1.93	-.84	0	0	0	0
+423	"South"	1	8.63	10.2	72.7	"l"	"n"		17	11	9.4	3739.832	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	263	72.7	19.298848	1.36	.55	1.39	1.45	0	0	0	0
+424	"North"	2	22.52	12.6	87	"l"	"n"		15.4	6.8	6.2	9086.829	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	685	87	16.646849	.96	.61	.85	.8	0	0	0	0
+425	"East"	2	4.71	8.1	67.8	"l"	"n"	42.7	14.2	11.8	12.4	4042.93	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	143	67.8	17.6208	1.46	1.96	.52	.55	0	0	0	0
+426	"South"	1	38.85	17.2	99.1	"l"	"n"		18	10.8	7.4	13104.19	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1182	98.4	17.763897	1.21	.13	1.66	1.7	0	0	0	0
+427	"East"	2	32.36	12.2	86.2	"l"	"n"					7381.218	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	985	85.5	16.688895	-.6	-1.91	.88	.64	0	0	0	0
+428	"North"	2	38.94	17.1	102.6	"h"	"n"		17.3	11.5	6.7	9337.532	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1185	102.6	16.244315	1.27	1.41	.64	.72	0	0	0	0
+429	"East"	2	34.44	14.2	88.3	"h"	"n"		16.9	10	7	6032.185	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1048	88.3	18.212388	.36	-1.51	1.87	1.64	0	0	0	0
+430	"South"	1	5.19	6.5	65.7	"l"	"n"	43.8	15.4	8.8		7085.415	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	158	65.7	15.058533	-1.4	-.26	-1.7	-1.67	0	0	0	0
+431	"West"	1	2.47	6.1	60.8	"l"	"n"	40.6				13177.4	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	75	60.8	16.501472	.18	.45	-.11	-.21	0	0	0	0
+432	"West"	2	12.3	9.4	76.9	"l"	"n"		13.5	5.8	5.2	4187.006	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	374	76.9	15.895535	.34	.98	-.3	-.12	0	0	0	0
+433	"South"	2	10.21	7.5		""	"n"		12.7	7.4	7	3309.001	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	311			-1.07						0	
+434	"North"	1	4.73	6.3	62.5	"l"	"n"	42	12.7	10		4290.396	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	144	62.5	16.128	-1.41	-1.38	-.82	-.67	0	0	0	0
+435	"North"	1	6.64	7.1	65.1	"l"	"n"	42.4	13.6	8.2	6	3738.503	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	202	65.1	16.753146	-1.28	-1.63	-.42	-.32	0	0	0	0
+436	"East"	1	40.77	14.9	96.8	"h"	"n"		16.8	8.8	5	10542.67	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1241	96.8	15.901406	-.13	-.59	.34	.33	0	0	0	0
+437	"West"	2	38.73	15.9	96.9	"h"	"n"		16.7	12.2	9.2	14146.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1179	96.9	16.93361	.76	0	1.1	1.09	0	0	0	0
+438	"South"	2	8.31	9.2	72.7	"l"	"n"		14.5	15	8.2	15600.27	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	253	72.7	17.406804	1.1	1.47	.39	.6	0	0	0	0
+439	"West"	1	44.18	17.4	104.3	"l"	"n"		17.5	11.4	8	22299.11	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1345	103.6	16.211742	.81	.61	.63	.69	0	0	0	0
+440	"West"	1	48.77	18.8	105.1	"h"	"n"		17.2	6.2	5.5	5048.201	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1484	105.1	17.01972	1.02	.32	1.25	1.25	0	0	0	0
+441	"West"	2	54.49	17.6	106.7	"h"	"n"		17.2	12.4	6.2	8647.995	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1659	106.7	15.459088	.14	.05	.14	.14	0	0	0	0
+442	"East"	1	17.42	12.2	84.7	"l"	"n"		15.4	11.2	6.2	15734.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	530	84.7	17.005642	1.09	1.14	.61	.79	0	0	0	0
+443	"North"	2	28.05	11.7		""	"n"		15	6.2	7	13393.4	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	854			-.41						0	
+444	"North"	1	53.09	19.9	110.7	"h"	"n"		17.9	8.4	5.2	60046.21	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1616	110.7	16.238946	1.11	1.04	.73	.66	0	0	0	0
+445	"South"	2	34.08	16	93.1	"h"	"n"		17.1	14.8	10	7989.252	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1037	93.1	18.45953	1.3	-.16	2.01	1.91	0	0	0	0
+446	"West"	2	15.96	10.8	80.5	"l"	"n"		15.9	10	8	40679.68	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	486	80.5	16.666024	.78	.69	.53	.64	0	0	0	0
+447	"East"	1	5.39	7.8	62.7	"l"	"n"	44	14.7	11	7.4	6721.814	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	164	62.7	19.840816	.14	-1.84	1.63	1.79	0	0	0	0
+448	"South"	1	51.57	15.6	94.4	"h"	"n"		17.5	12	7.4	33784.88	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1570	94.4	17.505745	-.64	-2.53	1.58	1.39	0	0	0	0
+449	"East"	1	31.76	11	85.1	"l"	"n"		14.2	14	6	37494	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	967	84.4	15.44215	-1.81	-2.52	-.24	-.57	0	0	0	0
+450	"East"	1	54.84	17.2	102.9	"h"	"n"		18.2	10.8	6.3	7057.945	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1669	102.9	16.244177	-.12	-.95	.74	.71	0	0	0	0
+451	"South"	1	52.29	19.4	108.8	"h"	"n"		17.3	8.2	5.7	7303.908	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1592	108.8	16.388677	.98	.71	.83	.79	0	0	0	0
+452	"South"	2	29.32	17.2	93	"h"	"n"		17.6	10.8	6.2	6555.717	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	892	93	19.886693	2.38	.82	2.72	2.67	0	0	0	0
+453	"South"	1	49.59	14	104.3	"h"	"n"		14.1	5.3	4.4	9330.983	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1509	104.3	12.869432	-1.34	.02	-2.17	-2.1	0	0	0	0
+454	"West"	1	4.47	6.6	63.2	"l"	"n"	40.8	13.4	11.4	10.4	1692.168	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	136	63.2	16.523794	-.84	-.8	-.5	-.41	0	0	0	0
+455	"West"	1	0	3.3	49.2	"l"	"n"	36				5369.841	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	49.2	13.632758	-.1	-.36	.17	.45	0	0	0	0
+456	"North"	2	33	12.9	92.5	"h"	"n"		14.8	9.6	5.6	7411.496	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1004	92.5	15.076698	-.23	-.11	-.3	-.31	0	0	0	0
+457	"South"	2	9.64	8.2	72.1	"l"	"n"		14.5	12.2	6.2	17267.84	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	293	72.1	15.774054	-.18	.45	-.62	-.52	0	0	0	0
+458	"East"	1	28.93	11.4	86	"l"	"n"		14.2	9.2		5229.852	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	881	85.3	15.667754	-1.19	-1.75	-.13	-.37	0	0	0	0
+459	"South"	1	37.45	14.9	96.6	"h"	"n"		16.2	7.6	4.7	10869.83	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1140	96.6	15.96732	.17	-.11	.33	.37	0	0	0	0
+460	"West"	2	2.6	6.5	61.7	"l"	"n"	40	13.7	11	9	4701.949	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	79	61.7	17.074304	1.21	1.42	.59	.34	0	0	0	0
+461	"West"	1	17.42	11.5	82.8	"l"	"n"		16.3	12.8	6	37088.83	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	530	82.8	16.774019	.55	.42	.44	.54	0	0	0	0
+462	"East"	1	17.3	11.4	83.1	"l"	"n"		16.7	11	7	38796.69	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	527	83.1	16.508317	.49	.58	.24	.36	0	0	0	0
+463	"West"	2	43.78	12.9	96.4	"l"	"n"		15.2	7.8	5.2	9342.365	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1333	95.7	14.08529	-1.3	-1.08	-.94	-.98	0	0	0	0
+464	"West"	1	5.97	7.8	69.1	"l"	"n"	45.4	14	11.5	5.1	16089.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	182	69.1	16.33573	-.15	.71	-.73	-.64	0	0	0	0
+465	"South"	1	35.55	12	89.4	"h"	"n"		14.4	6.4	5.5	14336.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1082	89.4	15.014338	-1.44	-1.73	-.5	-.76	0	0	0	0
+466	"South"	2	20.2	10.4	82.8	"l"	"n"		15.2	9.1	6	6107.814	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	615	82.8	15.169547	-.22	-.03	-.31	-.32	0	0	0	0
+467	"South"	1	21.14	8.7	75.9	"l"	"n"		13.8	7	5	6258.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	643	75.9	15.102042	-2.53	-3.24	-.67	-1.31	0	0	0	0
+468	"North"	2	5.12	6.5	62.1	"l"	"n"	40.7	14	11.2	7.2	8922.042	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	156	62.1	16.855055	-.55	-.97	0	.17	0	0	0	0
+469	"East"	2	30.59	12.2	90.2	"l"	"n"		14.7	8.6	8	18183.53	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	931	89.5	15.230486	-.4	-.46	-.22	-.29	0	0	0	0
+470	"East"	1	4.11	7.3	64.2	"l"	"n"	42	16	9.8	7.4	3793.921	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	125	64.2	17.711399	.3	.04	.37	.38	0	0	0	0
+471	"West"	2	9.42	8.1	68.6	"l"	"n"		14.1	8.6	7.4	1778.849	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	287	68.6	17.212218	-.24	-.87	.35	.31	0	0	0	0
+472	"East"	2	44.22	21.2	105.3	"h"	"n"		18.4	11.6	13.2	20994.15	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1346	105.3	19.119614	2.24	1.17	2.35	2.36	0	0	0	0
+473	"South"	2	29.22	12.2	87.8	"h"	"n"		14.5	8.4	6	20208.03	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	889	87.8	15.825985	-.23	-.65	.21	.09	0	0	0	0
+474	"East"	2	31.27	15.3	94.2	"h"	"n"		15.9	8.3	6	5571.168	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	952	94.2	17.24208	1.28	.71	1.23	1.21	0	0	0	0
+475	"North"	2	23.03	9.5	83.7	"l"	"n"		13.6	7.5	5.8	7883.099	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	701	83.7	13.560407	-1.42	-.58	-1.57	-1.59	0	0	0	0
+476	"North"	2	17.59	10.5	77.6	"l"	"n"		16	10.2	7	11286.07	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	535	77.6	17.436763	.28	-.93	1.14	.95	0	0	0	0
+477	"South"	1	6.93	7.3	62.6	"l"	"n"	42.5	13	13.5	7.4	18785.32	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	211	62.6	18.628343	-1.14	-2.98	.87	1.06	0	0	0	0
+478	"South"	2	38.98	13.4	94	"h"	"n"					9342.365	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1186	94	15.165233	-.56	-.78	-.14	-.2	0	0	0	0
+479	"North"	1	4.03	6.2	61	"l"	"n"	40.6	12.8	9.4	6.5	7655.093	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	123	61	16.662187	-1.09	-1.43	-.36	-.12	0	0	0	0
+480	"West"	1	24.71	12.6		""	"n"		16.3	7.2	4.4	15734.54	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	752			.22						0	
+481	"North"	1	0	3.9	53	"l"	"n"	37.3				7366.484	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	0	53	13.883945	1.08	1.65	.36	-.31	0	0	0	0
+482	"West"	1	13.93	10.6	74.8	"l"	"n"		15	9.6	8	5956.305	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	424	74.8	18.945351	.46	-1.28	1.64	1.34	0	0	0	0
+483	"East"	1	1.8	4.8	53.2	"l"	"n"	37.1				5000.537	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	55	53.2	16.959693	-.9	-2.3	.57	1.88	0	0	0	0
+484	"North"	1	27.55	12.5	87.7	"h"	"n"		15.9	7	5.9	4765.385	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	839	87.7	16.252151	-.24	-.73	.29	.16	0	0	0	0
+485	"North"	1	10.4	10.5	74.8	"l"	"n"		16.4	9	7	4477.024	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	317	74.8	18.76662	1.15	.43	1.21	1.23	0	0	0	0
+486	"West"	1	20.02	11.5	80.7	"l"	"n"					7270.8	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	609	80.7	17.658378	.12	-1.25	1.24	.99	0	0	0	0
+487	"South"	1	25.62	12.5	90	"h"	"n"		14.4	9.6	5.6	40544.4	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	780	90	15.432099	.02	.48	-.43	-.38	0	0	0	0
+488	"North"	1	14.66	9	77.2	"l"	"n"		13.8	7.8	6	34075.94	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	446	77.2	15.101078	-1.17	-.62	-1.12	-1.21	0	0	0	0
+489	"West"	2	6.01	9	66	"l"	"n"	41.9	17.6	21.3	10.7	4473.792	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	183	66	20.661157	1.7	.11	2.19	2.2	0	0	0	0
+490	"East"	1	24.18	12.8	89.2	"l"	"n"		15.5	7.3	4.8	18499.64	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	736	88.5	16.342686	.43	.4	.26	.26	0	0	0	0
+491	"North"	2	26.71	14.9		""	"n"					29843.17	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	813			1.66						0	
+492	"North"	1	38.08	15.9	99.1	"h"	"n"		16.7	8	4.8	24555.27	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1159	99.1	16.190111	.64	.44	.51	.62	0	0	0	0
+493	"West"	1	18.16	9.8	78.1	"l"	"n"		14.5	9.4	5.3	5764.528	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	553	78.1	16.066602	-1.01	-1.6	-.05	-.37	0	0	0	0
+494	"West"	2	11.78	8.9	74.3	"l"	"n"		14.6	8.6	6	5573.943	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	359	74.3	16.121755	0	.21	-.18	-.15	0	0	0	0
+495	"North"	2	34.13	17.6	95.5	"h"	"n"		18.9	11.2	7.2	13626.47	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1039	95.5	19.297717	1.99	.47	2.47	2.43	0	0	0	0
+496	"East"	1	2.62	6.8	60.1	"l"	"n"	39.8				17962.69	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	80	60.1	18.826084	.92	-.14	1.38	1.43	0	0	0	0
+497	"South"	2	50.27	17.2	105.1	"h"	"n"		17.2	7.4	6.2	15941.1	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1530	105.1	15.571235	.3	.24	.22	.24	0	0	0	0
+498	"East"	2	50.81	13.5	95.5	"h"	"n"		16.1	7.6	4.5	54077.65	"D:\WHO igrowup workdata"	"D:\WHO igrowup workdata"	"mysurvey"	"months"	1547	95.5	14.802226	-1.51	-2.01	-.32	-.42	0	0	0	0
