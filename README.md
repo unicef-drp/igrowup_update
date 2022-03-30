@@ -1,7 +1,7 @@
 # igrowup_update
 
 **About**
-IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety for calculating the z-scores and prevalences for a nutritional survey
+IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety for calculating the z-scores and prevalences for a nutritional survey.
 UNICEF has updated the STATA macro to account for complex survey designs when generating standard errors and confidence intervals for prevalences.
 
 
