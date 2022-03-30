@@ -1,24 +1,42 @@
 # igrowup_update
-About WHO IGROWUP
 
-IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety.
+**About**
+IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety for calculating the z-scores and prevalences for a nutritional survey
+UNICEF has updated the STATA macro to account for complex survey designs when generating standard errors and confidence intervals for prevalences.
 
 
+**License**
+Permission from WHO is not required for the use of WHO materials issued under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Intergovernmental Organization (CC BY-NC-SA 3.0 IGO) licence.
+
+It is important to note that:
+
+• WHO publications cannot be used to promote or endorse products, services or any specific organization.
+• WHO logo cannot be used without written authorization from WHO.
+• WHO provides no warranty of any kind, either expressed or implied. In no event shall WHO be liable for damages arising from the use of WHO publications.
+
+The  CC BY-NC-SA 3.0 IGO licence allows users to freely copy, reproduce, reprint, distribute, translate and adapt the work for non-commercial purposes, provided WHO is acknowledged as the source using the following suggested citation:
+
+[Title]. [Place of publication]: World Health Organization; [Year]. Licence: CC BY-NC-SA 3.0 IGO.
+
+The use of WHO materials that are not available under the CC BY-NC-SA 3.0 IGO licence is subject to permission being granted by WHO. Some of the uses of such materials are:
+
+• reproduction and translation of figures, tables, maps, photos, etc.
+• reprint and translation of complete works.
+• licensing of materials or other technical information in electronic database products and services.
+
+To request permission to use such materials, please complete the following permissions form.
 More details on the license can be found here: https://www.who.int/about/policies/publishing/copyright
 
 
-Update of IGROWUP Stata Macro Prevalence Module
-
-
 **Contact for reporting bugs/ comments: **
-Should you encounter any problems with this package, please send an e-mail with a clear description of the identified problem to "anthro2005@who.int", specifying in the subject line that it concerns the igrowup_Stata package , the name of the macro (igrowup_standard or igrowup_restricted) and kindly indicate which version of STATA 
+Should you encounter any problems with this package, please send an e-mail with a clear description of the identified problem to "anthro2005@who.int" and "data@unicef.org", specifying in the subject line that it concerns the igrowup_Stata package , the name of the macro (igrowup_standard or igrowup_restricted) and kindly indicate which version of STATA 
 you are using. Thank you.
 
 
 The package igrowup_stata contains the following items: 
 	1. Two macros (igrowup_standard.ado and igrowup_restricted.ado). 
-	2. Nine permanent (read-only) Stata data sets containing the WHO Child Growth Standards: weianthro.dta, lenanthro.dta, wflanthro.dta, wfhanthro.dta, bmianthro.dta, 
-	hcanthro.dta, acanthro.dta, tsanthro.dta and ssanthro.dta. 
+	2. Nine permanent (read-only) Stata data sets containing the WHO Child Growth Standards: weianthro.dta, lenanthro.dta, wflanthro.dta, wfhanthro.dta,
+	bmianthro.dta, hcanthro.dta, acanthro.dta, tsanthro.dta and ssanthro.dta. 
 	3. The file Readme.pdf 
 	4. An example set, survey.dta. 
 	5. Two example do-files, survey_standard.do and survey_restricted.do. 
