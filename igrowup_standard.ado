@@ -1,6 +1,6 @@
 /*************************************************************************************************************/
 /********  	WHO Child Growth Standards                                                         	  ****/
-/********  	Department of Nutrition for Health and Development                                 	  ****/
+/********  	Department of Nutrition and Food Safety                          	        	  ****/
 /********  	World Health Organization                                                          	  ****/
 /********  	Last modified on 23/05/2007     -     For STATA versions 12.0 and above             	  ****/
 /*************************************************************************************************************/
