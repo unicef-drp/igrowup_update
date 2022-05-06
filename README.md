@@ -28,7 +28,7 @@ To request permission to use such materials, please complete the following permi
 More details on the license can be found here: https://www.who.int/about/policies/publishing/copyright
 
 
-##**Contact for reporting bugs/ comments:**
+## **Contact for reporting bugs/ comments:**
 Should you encounter any problems with this package, please send an e-mail with a clear description of the identified problem to "anthro2005@who.int" and "data@unicef.org", specifying in the subject line that it concerns the igrowup_Stata package , the name of the macro (igrowup_standard or igrowup_restricted) and kindly indicate which version of STATA you are using. Thank you.
 
 
