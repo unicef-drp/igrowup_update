@@ -57,7 +57,7 @@ Intercooled Stata has a limit of 2,047 variables and with that the macros will o
 ## **Recommended setup and run**
 
 ### Step 1. 
-Create a sub-directory, for example "D:\WHO igrowup STATA", where you wish to save the package *(igrowup_stata.zip)*. This directory should be reserved only for the references tables *(anthro.dta)* and the macros *(igrowup_standard.ado and igrowup_restricted)* that are contained in the zip file.
+Create a sub-directory, for example `"D:\WHO igrowup STATA"`, where you wish to save the package *(igrowup_stata.zip)*. This directory should be reserved only for the references tables *(anthro.dta)* and the macros *(igrowup_standard.ado and igrowup_restricted)* that are contained in the zip file.
 
 ### Step 2. 
 Create a sub-directory, for example `"D:\WHO igrowup workdata"`, where the example data (survey.dta and pertaining output files) and your STATA input data can be stored and where all the macro output files will be written to.
