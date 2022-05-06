@@ -1,5 +1,5 @@
 <h1 align=center> igrowup_update </h1>
-<h1 align=center> <WHO Child Growth Standards STATA igrowup package </h1>
+<h1 align=center> WHO Child Growth Standards STATA igrowup package </h1>
 
 ## **About**
 IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety for calculating the z-scores and prevalences for a nutritional survey.
