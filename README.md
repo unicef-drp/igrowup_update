@@ -33,13 +33,12 @@ Should you encounter any problems with this package, please send an e-mail with 
 
 
 The package igrowup_stata contains the following items: 
-	1. Two macros (igrowup_standard.ado and igrowup_restricted.ado). 
-	2. Nine permanent (read-only) Stata data sets containing the WHO Child Growth Standards: weianthro.dta, lenanthro.dta, wflanthro.dta, wfhanthro.dta,
-	bmianthro.dta, hcanthro.dta, acanthro.dta, tsanthro.dta and ssanthro.dta. 
-	3. The file Readme.pdf 
-	4. An example set, survey.dta. 
-	5. Two example do-files, survey_standard.do and survey_restricted.do. 
-	6. The example output files: mysurvey_z_st.xls, mysurvey_z_rc.xls, mysurvey_z_st.dta, mysurvey_z_rc.dta, mysurvey_prev_st.xls and mysurvey_prev_rc.xls.
+1. Two macros (igrowup_standard.ado and igrowup_restricted.ado). 
+2. Nine permanent (read-only) Stata data sets containing the WHO Child Growth Standards: weianthro.dta, lenanthro.dta, wflanthro.dta, wfhanthro.dta, bmianthro.dta, hcanthro.dta, acanthro.dta, tsanthro.dta and ssanthro.dta. 
+3. The file Readme.pdf 
+4. An example set, survey.dta. 
+5. Two example do-files, survey_standard.do and survey_restricted.do. 
+6. The example output files: mysurvey_z_st.xls, mysurvey_z_rc.xls, mysurvey_z_st.dta, mysurvey_z_rc.dta, mysurvey_prev_st.xls and mysurvey_prev_rc.xls.
 
 **Pre-requisites **
 **Individual level Z-score outputs**
