@@ -40,15 +40,15 @@ The package igrowup_stata contains the following items:
 5. Two example do-files, survey_standard.do and survey_restricted.do. 
 6. The example output files: mysurvey_z_st.xls, mysurvey_z_rc.xls, mysurvey_z_st.dta, mysurvey_z_rc.dta, mysurvey_prev_st.xls and mysurvey_prev_rc.xls.
 
-## **Pre-requisites **
+## **Pre-requisites**
 ### **Individual level Z-score outputs**
-STATA Version 7.0 Stata/SE (Special Edition of Stata) or higher is required to run two macros (igrowup_standard.ado and igrowup_restriced). 
+**STATA Version 7.0 Stata/SE (Special Edition of Stata) or higher** is required to run two macros (igrowup_standard.ado and igrowup_restriced). 
 Intercooled Stata has a limit of 2,047 variables and with that the macros will only produce the z-scores output files
 
 ### **Prevalence Estimates**
 STATA Version 13.0 Stata/SE (Special Edition of Stata) or higher is required to generate prevalence estimates
 
-### **Precautions:**
+### **Precautions**
 1. Avoid any variable names starting with underscore "_" in the input STATA data set; otherwise they may be replaced by the derived ones created by the macro. 
 2. Avoid any temporary format names starting with underscore "_"; otherwise they may be replaced by the temporary ones created by the macro. 
 3. Avoid any STATA global macro variable names staring with underscore “_”, except those defined by the system. 
