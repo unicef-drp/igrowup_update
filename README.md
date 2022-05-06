@@ -1,18 +1,18 @@
 # igrowup_update
 
-**About**
+## **About**
 IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety for calculating the z-scores and prevalences for a nutritional survey.
 UNICEF has updated the STATA macro to account for complex survey designs when generating standard errors and confidence intervals for prevalences.
 
 
-**License**
+## **License**
 Permission from WHO is not required for the use of WHO materials issued under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Intergovernmental Organization (CC BY-NC-SA 3.0 IGO) licence.
 
 It is important to note that:
 
-• WHO publications cannot be used to promote or endorse products, services or any specific organization.
-• WHO logo cannot be used without written authorization from WHO.
-• WHO provides no warranty of any kind, either expressed or implied. In no event shall WHO be liable for damages arising from the use of WHO publications.
+- WHO publications cannot be used to promote or endorse products, services or any specific organization.
+- WHO logo cannot be used without written authorization from WHO.
+- WHO provides no warranty of any kind, either expressed or implied. In no event shall WHO be liable for damages arising from the use of WHO publications.
 
 The  CC BY-NC-SA 3.0 IGO licence allows users to freely copy, reproduce, reprint, distribute, translate and adapt the work for non-commercial purposes, provided WHO is acknowledged as the source using the following suggested citation:
 
