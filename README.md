@@ -64,7 +64,7 @@ Create a sub-directory, for example `"D:\WHO igrowup workdata"`, where the examp
 ### Step 3. 
 It is recommended that you start by loading and running the example code below (also found in survey_standard.do or survey_restricted.do) in the STATA do-file editor to see how the data should be prepared and to fill in the macros' parameters according to their requirements. Note: The macros run on **Stata/SE**: The Special Edition version of Stata (type "`help SpecialEdition`"). For users of Intercooled Stata, the macros will only produce the z scores output files and the user gets the message 
  
-`Please wait, programme is calculating prevalences............. 
- .............................................. 
+`Please wait, programme is calculating prevalences.............  <br>
+ ..............................................  <br>
 no room to add more variables`
 
