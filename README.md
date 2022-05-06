@@ -16,21 +16,20 @@ It is important to note that:
 
 The  CC BY-NC-SA 3.0 IGO licence allows users to freely copy, reproduce, reprint, distribute, translate and adapt the work for non-commercial purposes, provided WHO is acknowledged as the source using the following suggested citation:
 
-[Title]. [Place of publication]: World Health Organization; [Year]. Licence: CC BY-NC-SA 3.0 IGO.
+*[Title]. [Place of publication]: World Health Organization; [Year]. Licence: CC BY-NC-SA 3.0 IGO.*
 
 The use of WHO materials that are not available under the CC BY-NC-SA 3.0 IGO licence is subject to permission being granted by WHO. Some of the uses of such materials are:
 
-• reproduction and translation of figures, tables, maps, photos, etc.
-• reprint and translation of complete works.
-• licensing of materials or other technical information in electronic database products and services.
+- reproduction and translation of figures, tables, maps, photos, etc.
+- reprint and translation of complete works.
+- licensing of materials or other technical information in electronic database products and services.
 
 To request permission to use such materials, please complete the following permissions form.
 More details on the license can be found here: https://www.who.int/about/policies/publishing/copyright
 
 
-**Contact for reporting bugs/ comments: **
-Should you encounter any problems with this package, please send an e-mail with a clear description of the identified problem to "anthro2005@who.int" and "data@unicef.org", specifying in the subject line that it concerns the igrowup_Stata package , the name of the macro (igrowup_standard or igrowup_restricted) and kindly indicate which version of STATA 
-you are using. Thank you.
+##**Contact for reporting bugs/ comments:**
+Should you encounter any problems with this package, please send an e-mail with a clear description of the identified problem to "anthro2005@who.int" and "data@unicef.org", specifying in the subject line that it concerns the igrowup_Stata package , the name of the macro (igrowup_standard or igrowup_restricted) and kindly indicate which version of STATA you are using. Thank you.
 
 
 The package igrowup_stata contains the following items: 
