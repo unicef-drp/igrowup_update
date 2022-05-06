@@ -1,4 +1,4 @@
-# igrowup_update
+# igrowup_update - WHO Child Growth Standards STATA igrowup package
 
 ## **About**
 IGROWUP is a stata macro developed by the Department of Nutrition and Food Safety for calculating the z-scores and prevalences for a nutritional survey.
@@ -46,7 +46,7 @@ The package igrowup_stata contains the following items:
 Intercooled Stata has a limit of 2,047 variables and with that the macros will only produce the z-scores output files
 
 ### **Prevalence Estimates**
-STATA Version 13.0 Stata/SE (Special Edition of Stata) or higher is required to generate prevalence estimates
+**STATA Version 13.0 Stata/SE (Special Edition of Stata) or higher** is required to generate prevalence estimates
 
 ### **Precautions**
 1. Avoid any variable names starting with underscore "_" in the input STATA data set; otherwise they may be replaced by the derived ones created by the macro. 
