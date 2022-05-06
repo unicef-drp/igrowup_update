@@ -48,12 +48,12 @@ Intercooled Stata has a limit of 2,047 variables and with that the macros will o
 ### **Prevalence Estimates**
 STATA Version 13.0 Stata/SE (Special Edition of Stata) or higher is required to generate prevalence estimates
 
-### **Precautions: **
+### **Precautions:**
 1. Avoid any variable names starting with underscore "_" in the input STATA data set; otherwise they may be replaced by the derived ones created by the macro. 
 2. Avoid any temporary format names starting with underscore "_"; otherwise they may be replaced by the temporary ones created by the macro. 
 3. Avoid any STATA global macro variable names staring with underscore “_”, except those defined by the system. 
 
-## **Recommended setup and run **
+## **Recommended setup and run**
 
 ### Step 1. 
 Create a sub-directory, for example "D:\WHO igrowup STATA", where you wish to save the package *(igrowup_stata.zip)*. This directory should be reserved only for the references tables *(anthro.dta)* and the macros *(igrowup_standard.ado and igrowup_restricted)* that are contained in the zip file.
