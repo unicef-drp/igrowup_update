@@ -11,7 +11,7 @@ set maxvar 10000
 
 /* Indicate to the Stata compiler where the igrowup_restricted.ado file is stored*/
 
-adopath + "D:\WHO igrowup workdata/"
+adopath + "D:\WHO igrowup STATA/"
 
 /* Load the data file */
 
@@ -19,7 +19,7 @@ use "D:\WHO igrowup workdata\survey.dta", clear
 
 /* generate the first three parameters reflib, datalib & datalab	*/
 
-gen reflib="D:\WHO igrowup workdata"
+gen reflib="D:\WHO igrowup STATA"
 lab var reflib "Directory of reference tables"
 
 gen datalib="D:\WHO igrowup workdata"
