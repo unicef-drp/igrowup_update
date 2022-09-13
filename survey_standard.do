@@ -19,10 +19,10 @@ use "D:\WHO igrowup workdata\survey.dta", clear
 
 
 /* generate the first three parameters reflib, datalib & datalab	*/
-gen reflib="D:\WHO igrowup workdata"
+gen reflib="D:\WHO igrowup STATA"
 lab var reflib "Directory of reference tables"
 
-gen datalib="D:\WHO igrowup STATA"
+gen datalib="D:\WHO igrowup workdata"
 lab var datalib "Directory for datafiles"
 
 gen datalab="mysurvey"
