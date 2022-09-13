@@ -19,13 +19,13 @@ use "D:\WHO igrowup workdata\survey.dta", clear
 
 /* generate the first three parameters reflib, datalib & datalab	*/
 
-gen str60 reflib="D:\WHO igrowup workdata"
+gen reflib="D:\WHO igrowup workdata"
 lab var reflib "Directory of reference tables"
 
-gen str60 datalib="D:\WHO igrowup workdata"
+gen datalib="D:\WHO igrowup workdata"
 lab var datalib "Directory for datafiles"
 
-gen str30 datalab="mysurvey"
+gen datalab="mysurvey"
 lab var datalab "Working file"
 
 /*	check the variable for "sex"	1 = male, 2=female */
